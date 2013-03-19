@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <title>[% template.title or c.loc("The Tanglu Open Project") | html %]</title>
+        <link rel="stylesheet" href="[% c.uri_for('/static/styles/main.css') %]" />
+        <link rel="icon" type="image/png" href="[% c.uri_for('/static/images/favicon.png') %]">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39301068-1']);
+  _gaq.push(['_setDomainName', 'tanglu.org']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+    <body>
+        <div id="header">
+            <div class="inner cf">
+                <div id="navigation">
+                    <ul>
+                        <li [% IF c.namespace == "" %]class="current-menu-item"[% END %]>
+                            <a href="[% c.uri_for('/') %]">[% c.loc("Home") | html  %]</a>
+                        </li>
+                        <li [% IF c.namespace.match('^download') %]class="current-menu-item"[% END %]>
+                            <a  href="[% c.uri_for('/download') %]">[% c.loc("Get it") | html  %]</a>
+                        </li>
+                        <li>
+                            <a [% IF c.namespace == "^contribute" %]class="current-menu-item"[% END %] href="[% c.uri_for('/contribute') %]">[% c.loc("Contribute") | html  %]</a>
+                        </li>
+                        <li [% IF c.namespace == "^faq" %]class="current-menu-item"[% END %]>
+                            <a href="[% c.uri_for('/faq') %]">[% c.loc("FAQ") | html  %]</a>
+                        </li>
+                        <li [% IF c.namespace == "support" %]class="current-menu-item"[% END %]>
+                            <a href="[% c.uri_for('/support') %]">[% c.loc("Support") | html  %]</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <hr />
+        
+        <div id="content" class="home">
+            <span class="message"><strong>[% status_msg || c.request.params.status_msg | html %]</strong></span>
+            <span class="error"><strong>[% error_msg %]</strong></span>
+            [% content %]
+        </div>
+
+        <div id="footer">
+            <div class="inner">
+                <p>
+                    <span>&copy; 2013 The Tanglu Contributors</span>
+                </p>
+                <br/>
+                <a href="http://debian.org">
+                <img src="images/debian-powered.gif" alt="Debian Powered" />
+                </a>
+            </div>
+        </div>
+    </body>
+</html>

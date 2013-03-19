@@ -1,0 +1,17 @@
+<div class="inner">
+    <div id="logo" class="section logo">
+        <h1>
+                <img src="[% c.uri_for('/static/images/tanglu-draft.png') %]" alt="Tanglu logo draft" />
+        </h1>
+        <p>A new GNU/Linux distribution based on Debian.</p>
+        <p>Read the <a href="http://blog.tenstral.net/2013/03/tanglu.html">initial announcement</a>.</p>
+        <br/>
+        <p>If you want to get in contact, check out
+        <a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a> on Freenode.</p>
+        <p>You can also subscribe to our development mailinglist.</p>
+    </div>
+
+    <br /><br /><br /><br />
+    <hr />
+    <br />
+</div>
