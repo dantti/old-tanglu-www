@@ -1,0 +1,1 @@
+<strong>[% c.loc("Oops the page you was looking for was not found.") | html  %]</strong>

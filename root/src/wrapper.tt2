@@ -48,10 +48,12 @@
 
         <hr />
         
-        <div id="content" class="home">
-            <span class="message"><strong>[% status_msg || c.request.params.status_msg | html %]</strong></span>
-            <span class="error"><strong>[% error_msg %]</strong></span>
-            [% content %]
+        <div id="container">
+            <div id="content" class="home">
+                <span class="message"><strong>[% status_msg || c.request.params.status_msg | html %]</strong></span>
+                <span class="error"><strong>[% error_msg %]</strong></span>
+                [% content %]
+            </div>
         </div>
 
         <div id="footer">

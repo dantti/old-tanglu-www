@@ -100,6 +100,29 @@ a:hover .badge,
 .post-footer .meta,
 .work .gallery .nivo-controlNav { background: #fff; }
 
+div#container {
+    position:relative; /* needed for footer positioning*/
+    margin:0 auto; /* center, not in IE5 */
+    width:750px;
+    background:#FFF;
+
+    height:auto !important; /* real browsers */
+    height:100%; /* IE6: treaded as min-height*/
+
+    min-height:100%; /* real browsers */
+
+    /* Add a nice border shadow */
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 5px;
+    -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+}
+
 .thumb,
 .home .tweet,
 .text h2.with-icon,
