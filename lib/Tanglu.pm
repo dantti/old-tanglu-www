@@ -23,6 +23,9 @@ use Catalyst qw/
     
     I18N
     Unicode
+    Session
+    Session::Store::File
+    Session::State::Cookie
 /;
 
 extends 'Catalyst';
