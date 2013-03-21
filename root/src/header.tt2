@@ -3,8 +3,8 @@
 <html lang="en">
     <head>
         <title>[% template.title or c.loc("The Tanglu Open Project") | html %]</title>
-        <link rel="stylesheet" href="[% c.uri_for('/.static/css/bootstrap.css') %]" />
-        <link rel="icon" type="image/png" href="[% c.uri_for('/.static/favicon.png') %]">        
+        <link rel="stylesheet" href="[% c.uri_for('/static/css/bootstrap.css') %]" />
+        <link rel="icon" type="image/png" href="[% c.uri_for('/static/favicon.png') %]">        
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

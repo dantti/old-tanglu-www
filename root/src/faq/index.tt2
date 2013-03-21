@@ -45,9 +45,9 @@
         <p>[% l("Free software allows for everyone to think differently, 
         allows you to adapt an existing piece of software to your needs, you don't
         have this feature in closed operating systems, you must agree with their decisions
-        and thus take the risk of being obligated to adapt to their changes when never versions
+        and thus take the risk of being obligated to adapt to their changes when newer versions
         arive. It's natural not to think the same which is the very reason we find there is
-        no other distribution that fits our needs, and the needs of our users..") %]</p>
+        no other distribution that fits our needs, and the needs of our users.") %]</p>
 
         <h4>[% l("Is there a company behind this operating system?") %]</h4>
         <p>[% l("Yes and No, yes because we need money to rent our servers and stuff,
