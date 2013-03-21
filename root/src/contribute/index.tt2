@@ -2,10 +2,11 @@
     <h3>[% c.loc("There are basically two ways of contributing.") | html  %]</h3>
     <div class="span100">
 
-        <h4>[% c.loc("With money.") %]</h4>
-        <p>[% c.loc("Did you like the project? Don't you have time to contribute back?") %]</p>
-        <p>[% c.loc("As soon as the project has the minimun required to start running we
-        will offer possibilities to have contributions that pays for paid stuff") %]</p>
+        <h4>[% c.loc("With donations.") %]</h4>
+        <p>[% c.loc("Did you like the project but you don't have time to contribute back?") %]</p>
+        <p>[% c.loc("As soon as the project has the minimum required to start running we
+        will offer possibilities to make donations.") %]</p>
+        <p>[% c.loc("We will also allow for companies to sponsor the project.") %]</p>
 
         <h4>[% c.loc("With time.") | html  %]</h4>
         <p>[% c.loc("Time is the most expensive resource, if you have a great talent and
