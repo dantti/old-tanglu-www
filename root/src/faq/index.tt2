@@ -52,8 +52,8 @@
         <h4>[% l("Is there a company behind this operating system?") %]</h4>
         <p>[% l("Yes and No, yes because we need money to rent our servers and stuff,
         and no by there is no company dictating the flow of the project, we believe in
-        meritocracy, if some company decides to put lots of users to work with us there
-        is a natural way that they will be able to control what the help, the same way
+        meritocracy, if some company decides to put lots of users to work with us it
+        is natural that they will be able to control what they are helping, the same way
         a developer that maintains a few packages will have the right to decide what is
         best for those.") %]</p>
 

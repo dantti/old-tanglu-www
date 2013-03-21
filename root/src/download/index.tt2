@@ -1,4 +1,4 @@
 <div class="alert alert-info">
-[% c.loc("Sorry! We are still in the womb, soon to be born :D") %]
+<h3>[% c.loc("Sorry! We are still in the womb, soon to be born :D") %]</h3>
 [% c.loc("But wait! You can Help, check it out the ") %]<a href="[% c.uri_for('/contribute') %]">[% c.loc("contribute section!") %]</a>
 </div>

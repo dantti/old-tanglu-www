@@ -1,24 +1,29 @@
+[%- MACRO l(text, args) BLOCK; c.localize(text, args); END; %]
 <div class="row-fluid marketing">
-    <h3>[% c.loc("There are basically two ways of contributing.") | html  %]</h3>
+    <h3>[% l("There are basically two ways of contributing.") | html  %]</h3>
     <div class="span100">
 
-        <h4>[% c.loc("With donations.") %]</h4>
-        <p>[% c.loc("Did you like the project but you don't have time to contribute back?") %]</p>
-        <p>[% c.loc("As soon as the project has the minimum required to start running we
-        will offer possibilities to make donations.") %]</p>
-        <p>[% c.loc("We will also allow for companies to sponsor the project.") %]</p>
+        <h4>[% l("With donations.") %]</h4>
+        <p>[% l("Did you like the project but you don't have time to contribute back?") %]</p>
+        <ul>
+        <li>[% l("As soon as the project has the minimum required to start running we
+        will offer possibilities to make donations.") %]</li>
+        <li>[% l("Companies will also be allowed to sponsor the project.") %]</li>
+        </ul>
 
-        <h4>[% c.loc("With time.") | html  %]</h4>
-        <p>[% c.loc("Time is the most expensive resource, if you have a great talent and
+        <h4>[% l("With time.") | html  %]</h4>
+        <p>[% l("Time is the most expensive resource, if you have a great talent and
 some spare time help us out, bellow a list of what we need:") | html  %]</p>
 
         <ul>
-        <li>[% c.loc("Translating this site, software, manuals or upstream projects.") %]</li>
-        <li>[% c.loc("Designing wallpapers, bootup logos, this website.") %]</li>
-        <li>[% c.loc("Promoting our project by writting articles about it.") %]</li>
-        <li>[% c.loc("Taking care documentation don't get out-dated on our websites.") %]</li>
-        <li>[% c.loc("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
-        <li>[% c.loc("Filling up wikis with tested procedures, including screenshots if it makes for an easier unstandable") %]</li>
+        <li>[% l("Translating this site, software, manuals or upstream projects.") %]</li>
+        <li>[% l("Designing wallpapers, bootup logos, this website.") %]</li>
+        <li>[% l("Promoting our project by writting articles about it.") %]</li>
+        <li>[% l("Taking care documentation don't get out-dated on our websites.") %]</li>
+        <li>[% l("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
+        <li>[% l("Filling up wikis with tested procedures, including screenshots if it makes for an easier unstandable") %]</li>
         </ul>
+        <p>[% l("To get in touch with us, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
+        <p>[% l("Or you can also subscribe to our [_1]development mailinglist[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>']) %]</p>
     </div>
 </div>
