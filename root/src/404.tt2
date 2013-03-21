@@ -1,1 +1,3 @@
-<strong>[% c.loc("Oops the page you was looking for was not found.") | html  %]</strong>
+<div class="alert alert-error">
+[% c.loc("Oops! The page you was looking for was not found.") %]
+</div>

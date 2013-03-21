@@ -1,58 +1,62 @@
-<h3>[% c.loc("What is Tanglu?") | html  %]</h3>
-<h4>[% c.loc("Tanglu is a GNU/Linux Operating System, which aims to provide the best
-desktop experience for regular users and enthusiasts.") | html  %]</h4>
+<div class="row-fluid marketing">
+    <div class="span100">
+        <h4>[% c.loc("What is Tanglu?") %]</h4>
+        <p>[% c.loc("Tanglu is a GNU/Linux Operating System, which aims to provide the best
+        desktop experience for regular users and enthusiasts.") %]</p>
 
-<h3>[% c.loc("What does Tanglu name means?") | html  %]</h3>
-<h4>[% c.loc("Finding a catchy name is by no means an easy job, our criterea was:
-- Needs to be easy to remember
-- Nice sounding in english, german and brazilian portuguese
-- Available domains (.org .net)
-The word came out after some trials from the tangerine word and iglu (igloo)") | html  %]</h4>
+        <h4>[% c.loc("What does Tanglu name means?") %]</h4>
+        <p>[% c.loc("Finding a catchy name is by no means an easy job, our criterea was:
+        - Needs to be easy to remember
+        - Nice sounding in english, german and brazilian portuguese
+        - Available domains (.org .net)
+        The word came out after some trials from the tangerine word and iglu (igloo)") %]</p>
 
-<h3>[% c.loc("How often and when will it be released?") | html  %]</h3>
-<h4>[% c.loc("The release cycle will take place 2 times in a year, 
-but those aren't written in stone yet.
-Right now our work at configuring servers to start building software") | html  %]</h4>
+        <h4>[% c.loc("How often and when will it be released?") %]</h4>
+        <p>[% c.loc("The release cycle will take place 2 times in a year, 
+        but those aren't written in stone yet.
+        Right now our work at configuring servers to start building software") %]</p>
 
-<h3>[% c.loc("Will firmware be available on CDs?") | html  %]</h3>
-<h4>[% c.loc("Yes, it's very frustrating to an avarage user to try
-to find a way on it's own to install a firware that is currently 
-preventing him to get online. If we don't have free solutions
-to our hardware we shouldn't expect users to start writting them.") | html  %]</h4>
+        <h4>[% c.loc("Will firmware be available on CDs?") %]</h4>
+        <p>[% c.loc("Yes, it's very frustrating to an avarage user to try
+        to find a way on it's own to install a firware that is currently 
+        preventing him to get online. If we don't have free solutions
+        to our hardware we shouldn't expect users to start writting them.") %]</p>
 
-<h3>[% c.loc("If it's based on Debian will it freeze during long periods of time?") | html  %]</h3>
-<h4>[% c.loc("No, we are setting up our own software archive so our users get
-the lastest software that we agree at being ready for consumption.") | html  %]</h4>
+        <h4>[% c.loc("If it's based on Debian will it freeze during long periods of time?") %]</h4>
+        <p>[% c.loc("No, we are setting up our own software archive so our users get
+        the lastest software that we agree at being ready for consumption.") %]</p>
 
-<h3>[% c.loc("Will you have a default desktop enviroment?") | html  %]</h3>
-<h4>[% c.loc("No, all major desktops should receive a chance of trial, 
-we will provide screenshots and a small feature table to help the user to decide
-with which spin to go, if he doesn't like it a simple installation should help
-him switch.") | html  %]</h4>
+        <h4>[% c.loc("Will you have a default desktop enviroment?") %]</h4>
+        <p>[% c.loc("No, all major desktops should receive a chance of trial, 
+        we will provide screenshots and a small feature table to help the user to decide
+        with which spin to go, if he doesn't like it a simple installation should help
+        him switch.") %]</p>
 
-<h3>[% c.loc("Do you plan to have heavily modified software?") | html  %]</h3>
-<h4>[% c.loc("No, we want that the user feels the experience the software developer
-intended, if we believe upstream is not doing a good job we might consider using 
-another upstream solution or forking it, but trying to make the fork an upstream project too.
-We want to avoid in-house solutions.") | html  %]</h4>
+        <h4>[% c.loc("Do you plan to have heavily modified software?") %]</h4>
+        <p>[% c.loc("No, we want that the user feels the experience the software developer
+        intended, if we believe upstream is not doing a good job we might consider using 
+        another upstream solution or forking it, but trying to make the fork an upstream project too.
+        We want to avoid in-house solutions.") %]</p>
 
-<h3>[% c.loc("There are so many distributions out there, why another one?") | html  %]</h3>
-<h4>[% c.loc("Free software allows for everyone to think differently, 
-allows you to adapt an existing piece of software to your needs, you don't
-have this feature in closed operating systems, you must agree with their decisions
-and thus take the risk of being obligated to adapt to their changes when never versions
-arive. It's natural not to think the same which is the very reason we find there is
-no other distribution that fits our needs, and the needs of our users..") | html  %]</h4>
+        <h4>[% c.loc("There are so many distributions out there, why another one?") %]</h4>
+        <p>[% c.loc("Free software allows for everyone to think differently, 
+        allows you to adapt an existing piece of software to your needs, you don't
+        have this feature in closed operating systems, you must agree with their decisions
+        and thus take the risk of being obligated to adapt to their changes when never versions
+        arive. It's natural not to think the same which is the very reason we find there is
+        no other distribution that fits our needs, and the needs of our users..") %]</p>
 
-<h3>[% c.loc("Is there a company behind this operating system?") | html  %]</h3>
-<h4>[% c.loc("Yes and No, yes because we need money to rent our servers and stuff,
-and no by there is no company dictating the flow of the project, we believe in
-meritocracy, if some company decides to put lots of users to work with us there
-is a natural way that they will be able to control what the help, the same way
-a developer that maintains a few packages will have the right to decide what is
-best for those.") | html  %]</h4>
+        <h4>[% c.loc("Is there a company behind this operating system?") %]</h4>
+        <p>[% c.loc("Yes and No, yes because we need money to rent our servers and stuff,
+        and no by there is no company dictating the flow of the project, we believe in
+        meritocracy, if some company decides to put lots of users to work with us there
+        is a natural way that they will be able to control what the help, the same way
+        a developer that maintains a few packages will have the right to decide what is
+        best for those.") %]</p>
 
-<h3>[% c.loc("In case of disagreement will you start another project?") | html  %]</h3>
-<h4>[% c.loc("Who knows? The decision making process of this project will
-end up in voting sessions so again everyone involved (including a company's
-employees will have the right to vote.") | html  %]</h4>
+        <h4>[% c.loc("In case of disagreement will you start another project?") %]</h4>
+        <p>[% c.loc("Who knows? The decision making process of this project will
+        end up in voting sessions so again everyone involved (including a company's
+        employees will have the right to vote.") %]</p>
+    </div>
+</div>

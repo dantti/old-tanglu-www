@@ -1,17 +1,23 @@
-<h3>[% c.loc("There are basically two ways of contributing.") | html  %]</h3>
+<div class="row-fluid marketing">
+    <h3>[% c.loc("There are basically two ways of contributing.") | html  %]</h3>
+    <div class="span100">
 
-<li>[% c.loc("With money.") | html  %]</li>
-[% c.loc("Did you like the project? Don't you have time to contribute back?") | html  %]<br>
-[% c.loc("As soon as the project has the minimun required to start running we
-will offer possibilities to have contributions that pays for paid stuff") | html  %]<br>
+        <h4>[% c.loc("With money.") %]</h4>
+        <p>[% c.loc("Did you like the project? Don't you have time to contribute back?") %]</p>
+        <p>[% c.loc("As soon as the project has the minimun required to start running we
+        will offer possibilities to have contributions that pays for paid stuff") %]</p>
 
-<li>[% c.loc("With time.") | html  %]</li>
-[% c.loc("Time is the most expensive resource, if you have a great talent and
-some spare time help us out, bellow a list of what we need:") | html  %]<br>
+        <h4>[% c.loc("With time.") | html  %]</h4>
+        <p>[% c.loc("Time is the most expensive resource, if you have a great talent and
+some spare time help us out, bellow a list of what we need:") | html  %]</p>
 
-<ul>[% c.loc("Translating this site, software, manuals or upstream projects.") | html  %]</ul>
-<ul>[% c.loc("Designing wallpapers, bootup logos, this website.") | html  %]</ul>
-<ul>[% c.loc("Promoting our project by writting articles about it.") | html  %]</ul>
-<ul>[% c.loc("Taking care documentation don't get out-dated on our websites.") | html  %]</ul>
-<ul>[% c.loc("Testing the software and be willing to help out on further tests to assure we can fix the issues.") | html  %]</ul>
-<ul>[% c.loc("Filling up wikis with tested procedures, including screenshots if it makes for an easier unstandable") | html  %]</ul>
+        <ul>
+        <li>[% c.loc("Translating this site, software, manuals or upstream projects.") %]</li>
+        <li>[% c.loc("Designing wallpapers, bootup logos, this website.") %]</li>
+        <li>[% c.loc("Promoting our project by writting articles about it.") %]</li>
+        <li>[% c.loc("Taking care documentation don't get out-dated on our websites.") %]</li>
+        <li>[% c.loc("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
+        <li>[% c.loc("Filling up wikis with tested procedures, including screenshots if it makes for an easier unstandable") %]</li>
+        </ul>
+    </div>
+</div>
