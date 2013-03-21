@@ -5,7 +5,7 @@
     </h1>
     <h1>[% l("Made for YOU!") %]</h1>
 
-    <p>[% l("A new GNU/Linux distribution based on Debian for humman beings.") %]</p>
+    <p>[% l("A new GNU/Linux distribution based on Debian for human beings.") %]</p>
     <p>[% l("Read the [_1]initial announcement[_2].", ['<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>']) %]</p>
     <br/>
     <p>[% l("If you want to get in contact, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
