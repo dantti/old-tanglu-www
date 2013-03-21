@@ -79,10 +79,10 @@
                                 <li [% IF tanglu && c.namespace.match('^download') %]class="active"[% END %]>
                                     <a href="[% c.uri_for('/download') %]">[% c.loc("Get it") %]</a>
                                 </li>
-                                <li [% IF tanglu 'Tanglu' && c.namespace.match("^contribute") %]class="active"[% END %] >
+                                <li [% IF tanglu && c.namespace.match("^contribute") %]class="active"[% END %] >
                                     <a href="[% c.uri_for('/contribute') %]">[% c.loc("Contribute") %]</a>
                                 </li>
-                                <li [% IF tanglu 'Tanglu' && c.namespace.match("^faq") %]class="active"[% END %]>
+                                <li [% IF tanglu && c.namespace.match("^faq") %]class="active"[% END %]>
                                     <a href="[% c.uri_for('/faq') %]">[% c.loc("FAQ") %]</a>
                                 </li>
                             </ul>
