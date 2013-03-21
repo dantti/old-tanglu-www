@@ -73,16 +73,16 @@
                         <div class="container">
                             <a class="brand" href="http://www.tanglu.org">Tanglu</a>
                             <ul class="nav">
-                                <li [% IF c.name == 'Tanglu' && c.namespace == "" %]class="active"[% END %]>
+                                <li [% IF tanglu && c.namespace == "" %]class="active"[% END %]>
                                     <a href="[% c.uri_for('/') %]">[% c.loc("Home") %]</a>
                                 </li>
-                                <li [% IF c.name == 'Tanglu' && c.namespace.match('^download') %]class="active"[% END %]>
+                                <li [% IF tanglu && c.namespace.match('^download') %]class="active"[% END %]>
                                     <a href="[% c.uri_for('/download') %]">[% c.loc("Get it") %]</a>
                                 </li>
-                                <li [% IF c.name == 'Tanglu' && c.namespace.match("^contribute") %]class="active"[% END %] >
+                                <li [% IF tanglu 'Tanglu' && c.namespace.match("^contribute") %]class="active"[% END %] >
                                     <a href="[% c.uri_for('/contribute') %]">[% c.loc("Contribute") %]</a>
                                 </li>
-                                <li [% IF c.name == 'Tanglu' && c.namespace.match("^faq") %]class="active"[% END %]>
+                                <li [% IF tanglu 'Tanglu' && c.namespace.match("^faq") %]class="active"[% END %]>
                                     <a href="[% c.uri_for('/faq') %]">[% c.loc("FAQ") %]</a>
                                 </li>
                             </ul>
@@ -90,7 +90,7 @@
                                 <input type="text"  class="search-query" placeholder="[% c.loc("Search") %]" id="searchField" name="q" />
                             </form>
                             <ul class="nav pull-right">
-                                <li [% IF c.name != 'Tanglu' %]class="active"[% END %]>
+                                <li [% UNLESS tanglu %]class="active"[% END %]>
                                     <a href="http://wiki.tanglu.org">[% c.loc("Wiki") %]</a>
                                 </li>
                             </ul>

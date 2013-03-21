@@ -42,7 +42,7 @@ sub auto : Private {
         my $languages = $c->languages;
         $c->log->debug( "Languages setting: " . Data::Dump::dump($languages) );
     }
-    $c->stash(tanlgu => 1);
+    $c->stash(tanglu => 1);
     return 1;
 }
 
