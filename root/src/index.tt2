@@ -1,7 +1,7 @@
 [%- MACRO l(text, args) BLOCK; c.localize(text, args); END; %]
 <div class="jumbotron">
     <h1>
-        <img src="[% c.uri_for('/static/images/tanglu-draft.png') %]" alt="Tanglu logo draft" />
+        <img src="[% c.uri_for('/.static/images/tanglu-draft.png') %]" alt="Tanglu logo draft" />
     </h1>
     <h1>[% l("Made for YOU!") %]</h1>
 
