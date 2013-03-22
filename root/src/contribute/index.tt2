@@ -18,7 +18,7 @@ some spare time help us out, bellow a list of what we need:") | html  %]</p>
         <ul>
         <li>[% l("Translating this site, software, manuals or upstream projects.") %]</li>
         <li>[% l("Designing wallpapers, bootup logos, this website.") %]</li>
-        <li>[% l("Promoting our project by writting articles about it.") %]</li>
+        <li>[% l("Promoting our project by writing articles about it.") %]</li>
         <li>[% l("Taking care documentation don't get out-dated on our websites.") %]</li>
         <li>[% l("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
         <li>[% l("Filling up wikis with tested procedures, including screenshots if it makes for an easier understanding") %]</li>

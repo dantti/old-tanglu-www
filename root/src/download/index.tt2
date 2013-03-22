@@ -1,4 +1,7 @@
+[%- MACRO l(text, args) BLOCK; c.localize(text, args); END; %]
 <div class="alert alert-info">
-<h3>[% c.loc("Sorry! We are still in the womb, soon to be born :D") %]</h3>
-[% c.loc("But wait! You can Help, check it out the ") %]<a href="[% c.uri_for('/contribute') %]">[% c.loc("contribute section!") %]</a>
+<h3>[% l("Sorry! We are still in the womb, soon to be born :D") %]</h3>
+[% contributeURI = c.uri_for('/contribute')%]
+[% aHref = "<a href='$contributeURI'>" %]
+[% l("But wait! You can Help, check it out the [_1]contribute section[_2]!", [ aHref, '</a>']) %]</a>
 </div>
