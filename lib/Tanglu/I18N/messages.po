@@ -1,0 +1,301 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Daniel Nicoletti, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-03-22 17:30-0300\n"
+"Last-Translator: Daniel Nicoletti\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: root/src/index.tt2:8
+msgid "A new GNU/Linux distribution based on Debian for human beings."
+msgstr ""
+
+#: root/src/contribute/index.tt2:9
+msgid ""
+"As soon as the project has the minimum required to start running we\n"
+"will offer possibilities to make donations."
+msgstr ""
+
+#: root/src/faq/index.tt2:13
+msgid "Available domains (.org .net)"
+msgstr "Domínios disponíveis (.org .net)"
+
+#: root/src/download/index.tt2:3
+msgid "But wait! You can Help, check it out the "
+msgstr ""
+
+#: root/src/contribute/index.tt2:11
+msgid "Companies will also be allowed to sponsor the project."
+msgstr "Empresas também poderão patrocinar o projeto."
+
+#: root/src/header.tt2:83
+msgid "Contribute"
+msgstr "Contribua"
+
+#: root/src/contribute/index.tt2:20
+msgid "Designing wallpapers, bootup logos, this website."
+msgstr "Desenhando papéis de parede, logotipos de inicialização, este site."
+
+#: root/src/contribute/index.tt2:7
+msgid "Did you like the project but you don't have time to contribute back?"
+msgstr "Você gostou do projeto mas não tem tempo de retribuir?"
+
+#: root/src/faq/index.tt2:38
+msgid "Do you plan to have heavily modified software?"
+msgstr "Vocês planejam ter software altamente modificado?"
+
+#: root/src/header.tt2:86
+msgid "FAQ"
+msgstr ""
+
+#: root/src/contribute/index.tt2:24
+msgid ""
+"Filling up wikis with tested procedures, including screenshots if it makes "
+"for an easier understanding"
+msgstr ""
+
+#: root/src/faq/index.tt2:9
+msgid "Finding a catchy name is by no means an easy job, our criterea was:"
+msgstr ""
+
+#: root/src/faq/index.tt2:45
+msgid ""
+"Free software allows for everyone to think differently, \n"
+"allows you to adapt an existing piece of software to your needs, you don't\n"
+"have this feature in closed operating systems, you must agree with their "
+"decisions\n"
+"and thus take the risk of being obligated to adapt to their changes when "
+"newer versions\n"
+"arive. It's natural not to think the same which is the very reason we find "
+"there is\n"
+"no other distribution that fits our needs, and the needs of our users."
+msgstr ""
+
+#: root/src/header.tt2:80
+msgid "Get it"
+msgstr "Obtenha"
+
+#: root/src/header.tt2:77
+msgid "Home"
+msgstr ""
+
+#: root/src/faq/index.tt2:17
+msgid "How often and when will it be released?"
+msgstr ""
+
+#: root/src/faq/index.tt2:28
+msgid "If it's based on Debian will it freeze during long periods of time?"
+msgstr ""
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/index.tt2:11
+msgid "If you want to get in contact, check out %1 on Freenode."
+msgstr ""
+
+#: root/src/faq/index.tt2:60
+msgid "In case of disagreement will you start another project?"
+msgstr ""
+
+#: root/src/faq/index.tt2:52
+msgid "Is there a company behind this operating system?"
+msgstr ""
+
+#: root/src/index.tt2:6
+msgid "Made for YOU!"
+msgstr "Feito para VOCÊ!"
+
+#: root/src/faq/index.tt2:11
+msgid "Needs to be easy to remember"
+msgstr ""
+
+#: root/src/faq/index.tt2:12
+msgid "Nice sounding in english, german and brazilian portuguese"
+msgstr ""
+
+#: root/src/faq/index.tt2:33
+msgid ""
+"No, all major desktops should receive a chance of trial, \n"
+"we will provide screenshots and a small feature table to help the user to "
+"decide\n"
+"with which spin to go, if he doesn't like it a simple installation should "
+"help\n"
+"him switch."
+msgstr ""
+
+#: root/src/faq/index.tt2:29
+msgid ""
+"No, we are setting up our own software archive so our users get\n"
+"the lastest software that we agree at being ready for consumption."
+msgstr ""
+
+#: root/src/faq/index.tt2:39
+msgid ""
+"No, we want that the user feels the experience the software developer\n"
+"intended, if we believe upstream is not doing a good job we might consider "
+"using \n"
+"another upstream solution or forking it, but trying to make the fork an "
+"upstream project too.\n"
+"We want to avoid in-house solutions."
+msgstr ""
+
+#: root/src/404.tt2:2
+msgid "Oops! The page you was looking for was not found."
+msgstr ""
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
+#: root/src/contribute/index.tt2:27
+msgid "Or you can also subscribe to our %1development mailinglist%2."
+msgstr ""
+
+#: root/src/header.tt2:89
+msgid "Planet"
+msgstr ""
+
+#: root/src/contribute/index.tt2:21
+msgid "Promoting our project by writting articles about it."
+msgstr ""
+
+#. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
+#: root/src/index.tt2:9
+msgid "Read the %1initial announcement%2."
+msgstr ""
+
+#: root/src/header.tt2:93
+msgid "Search"
+msgstr ""
+
+#: root/src/download/index.tt2:2
+msgid "Sorry! We are still in the womb, soon to be born :D"
+msgstr ""
+
+#: root/src/contribute/index.tt2:22
+msgid "Taking care documentation don't get out-dated on our websites."
+msgstr ""
+
+#: root/src/faq/index.tt2:5
+msgid ""
+"Tanglu is a GNU/Linux Operating System, which aims to provide the best\n"
+"desktop experience for regular users and enthusiasts."
+msgstr ""
+
+#: root/src/contribute/index.tt2:23
+msgid ""
+"Testing the software and be willing to help out on further tests to assure we "
+"can fix the issues."
+msgstr ""
+
+#: root/src/header.tt2:5
+msgid "The Tanglu Open Project"
+msgstr ""
+
+#: root/src/faq/index.tt2:18
+msgid ""
+"The release cycle will take place 2 times in a year, \n"
+"but those aren't written in stone yet.\n"
+"Right now our work at configuring servers to start building software"
+msgstr ""
+
+#: root/src/faq/index.tt2:15
+msgid ""
+"The word then came out after an exhaustive trial from the tangerine word and "
+"iglu (igloo)"
+msgstr ""
+
+#: root/src/contribute/index.tt2:3
+msgid "There are basically two ways of contributing."
+msgstr ""
+
+#: root/src/faq/index.tt2:44
+msgid "There are so many distributions out there, why another one?"
+msgstr ""
+
+#: root/src/contribute/index.tt2:15
+msgid ""
+"Time is the most expensive resource, if you have a great talent and\n"
+"some spare time help us out, bellow a list of what we need:"
+msgstr ""
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/contribute/index.tt2:26
+msgid "To get in touch with us, check out %1 on Freenode."
+msgstr ""
+
+#: root/src/contribute/index.tt2:19
+msgid "Translating this site, software, manuals or upstream projects."
+msgstr ""
+
+#: root/src/faq/index.tt2:8
+msgid "What does Tanglu name means?"
+msgstr ""
+
+#: root/src/faq/index.tt2:4
+msgid "What is Tanglu?"
+msgstr ""
+
+#: root/src/faq/index.tt2:61
+msgid ""
+"Who knows? The decision making process of this project will\n"
+"end up in voting sessions so again everyone involved (including a company's\n"
+"employees will have the right to vote."
+msgstr ""
+
+#: root/src/header.tt2:97
+msgid "Wiki"
+msgstr ""
+
+#: root/src/faq/index.tt2:22
+msgid "Will firmware be available on CDs?"
+msgstr ""
+
+#: root/src/faq/index.tt2:32
+msgid "Will you have a default desktop enviroment?"
+msgstr ""
+
+#: root/src/contribute/index.tt2:6
+msgid "With donations."
+msgstr ""
+
+#: root/src/contribute/index.tt2:14
+msgid "With time."
+msgstr ""
+
+#: root/src/faq/index.tt2:53
+msgid ""
+"Yes and No, yes because we need money to rent our servers and stuff,\n"
+"and no by there is no company dictating the flow of the project, we believe "
+"in\n"
+"meritocracy, if some company decides to put lots of users to work with us it\n"
+"is natural that they will be able to control what they are helping, the same "
+"way\n"
+"a developer that maintains a few packages will have the right to decide what "
+"is\n"
+"best for those."
+msgstr ""
+
+#: root/src/faq/index.tt2:23
+msgid ""
+"Yes, it's very frustrating to an avarage user to try\n"
+"to find a way on it's own to install a firware that is currently \n"
+"preventing him to get online. If we don't have free solutions\n"
+"to our hardware we shouldn't expect users to start writting them."
+msgstr ""
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
+#: root/src/index.tt2:12
+msgid "You can also subscribe to our %1development mailinglist%2."
+msgstr ""
+
+#: root/src/download/index.tt2:3
+msgid "contribute section!"
+msgstr ""
+

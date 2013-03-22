@@ -7,7 +7,7 @@
         <p>[% l("Did you like the project but you don't have time to contribute back?") %]</p>
         <ul>
         <li>[% l("As soon as the project has the minimum required to start running we
-        will offer possibilities to make donations.") %]</li>
+will offer possibilities to make donations.") %]</li>
         <li>[% l("Companies will also be allowed to sponsor the project.") %]</li>
         </ul>
 
@@ -21,7 +21,7 @@ some spare time help us out, bellow a list of what we need:") | html  %]</p>
         <li>[% l("Promoting our project by writting articles about it.") %]</li>
         <li>[% l("Taking care documentation don't get out-dated on our websites.") %]</li>
         <li>[% l("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
-        <li>[% l("Filling up wikis with tested procedures, including screenshots if it makes for an easier unstandable") %]</li>
+        <li>[% l("Filling up wikis with tested procedures, including screenshots if it makes for an easier understanding") %]</li>
         </ul>
         <p>[% l("To get in touch with us, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
         <p>[% l("Or you can also subscribe to our [_1]development mailinglist[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>']) %]</p>
