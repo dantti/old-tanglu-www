@@ -9,43 +9,42 @@ desktop experience for regular users and enthusiasts.") %]</p>
         <p>[% l("Finding a catchy name is by no means an easy job, our criteria was:") %]
         <ul>
         <li>[% l("Needs to be easy to remember") %]</li>
-        <li>[% l("Nice sounding in english, german and brazilian portuguese") %]</li>
+        <li>[% l("Nice sounding in English, German and Brazilian portuguese") %]</li>
         <li>[% l("Available domains (.org .net)") %]</li>
         </ul>
-        <p>[% l("The word then came out after an exhaustive trial from the tangerine word and iglu (igloo)") %]</p>
+        <p>[% l("The word then evolved out of the words tangerine and iglu (igloo)") %]</p>
 
         <h4>[% l("How often and when will it be released?") %]</h4>
-        <p>[% l("The release cycle will take place 2 times in a year, 
-but those aren't written in stone yet.
-Right now our work at configuring servers to start building software") %]</p>
+        <p>[% l("The release cycle will take place 2 times a year,
+but this isn't written in stone yet.
+Right now we are working on configuring servers to start building software") %]</p>
 
         <h4>[% l("Will firmware be available on CDs?") %]</h4>
-        <p>[% l("Yes, it's very frustrating to an avarage user to try
-to find a way on it's own to install a firware that is currently 
-preventing him to get online. If we don't have free solutions
-to our hardware we shouldn't expect users to start writting them.") %]</p>
+        <p>[% l("Yes, it's very frustrating for the average user to try
+on their own to install firmware, especially when it's preventing
+them from getting online. We will include firmware even if
+it isn't open source.") %]</p>
 
-        <h4>[% l("If it's based on Debian will it have it's features frozen during long periods of time?") %]</h4>
+        <h4>[% l("It's based on Debian, will it have long feature freezes?") %]</h4>
         <p>[% l("No, we are setting up our own software archive so our users get
-the lastest software that we agree at being ready for consumption.") %]</p>
+the lastest software that we believe is ready for consumption.") %]</p>
 
         <h4>[% l("Will you have a default desktop environment?") %]</h4>
-        <p>[% l("No, all major desktops should receive a chance of trial, 
-we will provide screenshots and a small feature table to help the user to decide
-with which spin to go, if he doesn't like it a simple installation should help
-him switch.") %]</p>
+        <p>[% l("No, all major desktops will be supported.
+We will provide screenshots and a small feature table to help the user to decide
+which desktop to choose. A simple script or menu will allow the user to switch.") %]</p>
 
-        <h4>[% l("Do you plan to have heavily modified software?") %]</h4>
-        <p>[% l("No, we want that the user feels the experience the software developer
-intended, if we believe upstream is not doing a good job we might consider using 
-another upstream solution or forking it, but trying to make the fork an upstream project too.
+        <h4>[% l("Do you plan to heavily modified software?") %]</h4>
+        <p>[% l("No, we want the user to have the look and feel intended
+by the original software developer. If we believe upstream isn't doing a good
+job we may decide to use a different upstream or fork the project.
 We want to avoid in-house solutions.") %]</p>
 
         <h4>[% l("There are so many distributions out there, why another one?") %]</h4>
-        <p>[% l("Free software allows for everyone to think differently, 
+        <p>[% l("Free software allows everyone to think differently,
 allows you to adapt an existing piece of software to your needs, you don't
 have this feature in closed operating systems, you must agree with their decisions
-and thus take the risk of being obligated to adapt to their changes when newer versions
+and thus take the risk of being required to adapt to their changes when newer versions
 arrive. It's natural not to think the same which is the very reason we find there is
 no other distribution that fits our needs, and the needs of our users.") %]</p>
 

@@ -4,24 +4,24 @@
     <div class="span100">
 
         <h4>[% l("With donations.") %]</h4>
-        <p>[% l("Did you like the project but you don't have time to contribute back?") %]</p>
+        <p>[% l("Do you like the project but don't have time to contribute back?") %]</p>
         <ul>
         <li>[% l("As soon as the project has the minimum required to start running we
-will offer possibilities to make donations.") %]</li>
-        <li>[% l("Companies will also be allowed to sponsor the project.") %]</li>
+will be accepting donations.") %]</li>
+        <li>[% l("Companies will also be able to sponsor the project.") %]</li>
         </ul>
 
         <h4>[% l("With time.") | html  %]</h4>
-        <p>[% l("Time is the most expensive resource, if you have a great talent and
-some spare time help us out, bellow a list of what we need:") | html  %]</p>
+        <p>[% l("Time is the most expensive resource, if you are talented and
+have time to help out, here is a list of what we need:") | html  %]</p>
 
         <ul>
         <li>[% l("Translating this site, software, manuals or upstream projects.") %]</li>
         <li>[% l("Designing wallpapers, bootup logos, this website.") %]</li>
         <li>[% l("Promoting our project by writing articles about it.") %]</li>
-        <li>[% l("Taking care documentation don't get out-dated on our websites.") %]</li>
-        <li>[% l("Testing the software and be willing to help out on further tests to assure we can fix the issues.") %]</li>
-        <li>[% l("Filling up wikis with tested procedures, including screenshots if it makes for an easier understanding") %]</li>
+        <li>[% l("Ensuring documentation on our website doesn't get out of date.") %]</li>
+        <li>[% l("Testing the software and be willing to help out on further tests to ensure we can fix the issues.") %]</li>
+        <li>[% l("Documenting procedures on the wiki, including screenshots if it makes for easier understanding") %]</li>
         </ul>
         <p>[% l("To get in touch with us, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
         <p>[% l("Or you can also subscribe to our [_1]development mailinglist[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>']) %]</p>
