@@ -5,10 +5,10 @@
         <p>[% l("Tanglu is a GNU/Linux Operating System, which aims to provide the best
 desktop experience for regular users and enthusiasts.") %]</p>
 
-        <h4>[% l("What does Tanglu name means?") %]</h4>
+        <h4>[% l("What does the name "Tanglu" mean?") %]</h4>
         <p>[% l("Finding a catchy name is by no means an easy job, our criteria was:") %]
         <ul>
-        <li>[% l("Needs to be easy to remember") %]</li>
+        <li>[% l("Needs to be easy to remember, maybe an unique name used nowhere else") %]</li>
         <li>[% l("Nice sounding in English, German and Brazilian portuguese") %]</li>
         <li>[% l("Available domains (.org .net)") %]</li>
         </ul>
