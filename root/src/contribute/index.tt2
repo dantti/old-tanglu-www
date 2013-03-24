@@ -3,17 +3,8 @@
     <h3>[% l("There are basically two ways of contributing.") | html  %]</h3>
     <div class="span100">
 
-        <h4>[% l("With donations.") %]</h4>
-        <p>[% l("Do you like the project but don't have time to contribute back?") %]</p>
-        <ul>
-        <li>[% l("As soon as the project has the minimum required to start running we
-will be accepting donations.") %]</li>
-        <li>[% l("Companies will also be able to sponsor the project.") %]</li>
-        </ul>
-
         <h4>[% l("With time.") | html  %]</h4>
-        <p>[% l("Time is the most expensive resource, if you are talented and
-have time to help out, here is a list of what we need:") | html  %]</p>
+        <p>[% l("Time is the most expensive resource, if you are talented and have time to help out, here is a list of what we need:") | html  %]</p>
 
         <ul>
         <li>[% l("Translating this site, software, manuals or upstream projects.") %]</li>
@@ -22,7 +13,26 @@ have time to help out, here is a list of what we need:") | html  %]</p>
         <li>[% l("Ensuring documentation on our website doesn't get out of date.") %]</li>
         <li>[% l("Testing the software and be willing to help out on further tests to ensure we can fix the issues.") %]</li>
         <li>[% l("Documenting procedures on the wiki, including screenshots if it makes for easier understanding") %]</li>
+        <li>[% l("Help with website and infrastructure administration.") %]</li>
+        <li>[% l("Help creating packages.") %]</li>
         </ul>
+
+        <h4>[% l("With servers.") %]</h4>
+        <p>[% l("We need lots of infrastructure, since we are no rolling-release distribution and will have to provide a full Debian archive copy, as well as the required infrastructure to generate diffs for merging changes and for building packages.") %]</p>
+        <ul>
+        <li>[% l("If you have a server which just idles at time, we would happily use it as buildd for package building.") %]</li>
+        <li>[% l("Also, other services like the package queue, bugtracker, merge system etc. need capacity.") %]</li>
+        <li>[% l("If you want, you could also provide an archive mirror.") %]</li>
+        </ul>
+
+        <h4>[% l("With donations.") %]</h4>
+        <p>[% l("Do you like the project but don't have time to contribute back?") %]</p>
+        <ul>
+        <li>[% l("As soon as the project has the minimum required to start running we will be accepting donations.") %]</li>
+        <li>[% l("Companies will also be able to sponsor the project.") %]</li>
+        </ul>
+
+        
         <p>[% l("To get in touch with us, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
         <p>[% l("Or you can also subscribe to our [_1]development mailinglist[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>']) %]</p>
     </div>
