@@ -3,7 +3,7 @@
     <h1>
         <img src="[% c.uri_for('/static/images/tanglu-draft.png') %]" alt="Tanglu logo draft" />
     </h1>
-    <h1>[% l("Made for YOU!") %]</h1>
+    <h2>[% l("Made for YOU!") %]</h2>
 
     <p>[% l("A new GNU/Linux distribution based on Debian for human beings.") %]</p>
     <p>[% l("Read the [_1]initial announcement[_2].", ['<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>']) %]</p>
