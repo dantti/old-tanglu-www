@@ -12,10 +12,10 @@ desktop experience for regular users and enthusiasts.") %]</p>
         <li>[% l("Nice sounding in English, German and Brazilian portuguese") %]</li>
         <li>[% l("Available domains (.org .net)") %]</li>
         </ul>
-        <p>[% l("The word then evolved out of the words tangerine and iglu (igloo)") %]</p>
+        <p>[% l("The word then evolved out of the words tangerine and iglu (igloo), after trying a large number of words for days.") %]</p>
 
         <h4>[% l("How often and when will it be released?") %]</h4>
-        <p>[% l("The release cycle will take place 2 times a year,
+        <p>[% l("For now it is planned that we will release 2 times a year,
 but this isn't written in stone yet.
 Right now we are working on configuring servers to start building software") %]</p>
 
@@ -23,34 +23,29 @@ Right now we are working on configuring servers to start building software") %]<
         <p>[% l("Yes, it's very frustrating for the average user to try
 on their own to install firmware, especially when it's preventing
 them from getting online. We will include firmware even if
-it isn't open source.") %]</p>
+it isn't open source. But except for the firmware, there will be no proprietary modules in the distribution. We will also only include firmware which is part of upstream Linux.") %]</p>
 
         <h4>[% l("It's based on Debian, will it have long feature freezes?") %]</h4>
         <p>[% l("No, we are setting up our own software archive so our users get
-the lastest software that we believe is ready for consumption.") %]</p>
+the lastest software that we believe is stable enough.") %]</p>
 
         <h4>[% l("Will you have a default desktop environment?") %]</h4>
         <p>[% l("No, all major desktops will be supported.
 We will provide screenshots and a small feature table to help the user to decide
-which desktop to choose. A simple script or menu will allow the user to switch.") %]</p>
+which desktop to choose on the Tanglu download page.") %]</p>
 
-        <h4>[% l("Do you plan to heavily modified software?") %]</h4>
+        <h4>[% l("Do you plan to heavily modify the software you ship?") %]</h4>
         <p>[% l("No, we want the user to have the look and feel intended
 by the original software developer. If we believe upstream isn't doing a good
-job we may decide to use a different upstream or fork the project.
-We want to avoid in-house solutions.") %]</p>
+job we will talk to upstream first to find a solution which works for everyone. If this will not work in rare cases, we may decide to use a different upstream. We want to avoid in-house solutions, and everything developed for Tanglu will be available for other distributions too.") %]</p>
 
-        <h4>[% l("There are so many distributions out there, why another one?") %]</h4>
-        <p>[% l("Free software allows everyone to think differently,
-allows you to adapt an existing piece of software to your needs, you don't
-have this feature in closed operating systems, you must agree with their decisions
-and thus take the risk of being required to adapt to their changes when newer versions
-arrive. It's natural not to think the same which is the very reason we find there is
-no other distribution that fits our needs, and the needs of our users.") %]</p>
+        <h4>[% l("Why don’t you contribute to Debian directly and create yet another distribution?") %]</h4>
+        <p>[% l("We do contribute to Debian. The point is that Debian can not cover all possible use-cases, for example for people who want to use newer software, Debian freezes are annoying. But the freezes are a big strength if you want to use Debian as server OS. With Tanglu we want to build a distribution which provides a Debian experience for desktop users, Linux newbies and users who want up-to-date software and no rolling release.") %]</p>
+<p>[% l("You might ask why we have to create a new distribution for that, instead of creating improvements inside Debian? Creating a new distribution allows us to do stuff we can never do in Debian, for example including more frmware by default and having a time-based release cycle. These are already things which are a no-go for Debian, and that’s fine. We don’t want Debian to support these cases, as it is already a great distribution. We want to offer a distro as close to Debian as possible, but with a few modifications for use-cases which are not covered by Debian itself, and by doing that add value to the Debian ecosystem. Of course we will participate in the [_1]DEX[_2].", ['<a href="http://wiki.debian.org/DEX">', '</a>'] project and work closely with Debian.") %]</p>
 
         <h4>[% l("Is there a company behind this operating system?") %]</h4>
         <p>[% l("Yes and No, yes because we need money to rent our servers and stuff,
-and no by there is no company dictating the flow of the project, we believe in
+and no by there is no company dictating the flow of the project. We believe in
 meritocracy, if some company decides to put lots of users to work with us it
 is natural that they will be able to control what they are helping, the same way
 a developer that maintains a few packages will have the right to decide what is
@@ -59,6 +54,6 @@ best for those.") %]</p>
         <h4>[% l("In case of disagreement will you start another project?") %]</h4>
         <p>[% l("Who knows? The decision making process of this project will
 end up in voting sessions so again everyone involved (including a company's
-employees will have the right to vote.") %]</p>
+employees) will have the right to vote. Tanglu is entirely community-driven, so we expect that there will be problems from time to time, but we thing that these can all be solved. We take every community-member and not-member serious and try to find a solution which works for most people.") %]</p>
     </div>
 </div>
