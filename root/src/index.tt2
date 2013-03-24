@@ -5,9 +5,9 @@
     </h1>
     <h2>[% l("Made for YOU!") %]</h2>
 
-    <p>[% l("A new GNU/Linux distribution based on Debian for human beings.") %]</p>
+    <p>[% l("A new GNU/Linux distribution based on Debian, designed for human beings.") %]</p>
     <p>[% l("Read the [_1]initial announcement[_2].", ['<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>']) %]</p>
     <br/>
     <p>[% l("If you want to get in contact, check out [_1] on Freenode.", '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>') %]</p>
-    <p>[% l("You can also subscribe to our [_1]development mailinglist[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>']) %]</p>
+    <p>[% l("You can also subscribe to one of our [_1]mailinglists[_2].", ['<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>']) %]</p>
 </div>
