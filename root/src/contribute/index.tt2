@@ -1,6 +1,6 @@
 [%- MACRO l(text, args) BLOCK; c.localize(text, args); END; %]
 <div class="row-fluid marketing">
-    <h3>[% l("There are basically two ways of contributing.") | html  %]</h3>
+    <h3>[% l("You can contribute on the following ways:") | html  %]</h3>
     <div class="span100">
 
         <h4>[% l("With time.") | html  %]</h4>
