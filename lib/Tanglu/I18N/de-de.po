@@ -107,7 +107,7 @@ msgstr "Hilf, Pakete zu erstellen."
 
 #: root/src/contribute/index.tt2:16
 msgid "Help with website and infrastructure administration."
-msgstr ""
+msgstr "Hilf bei der Administration der Website und der Infrastruktur."
 
 #: root/src/header.tt2:77
 msgid "Home"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: root/src/faq/index.tt2:46
 msgid "How is the relation to Debian?"
-msgstr ""
+msgstr "Wie ist das Verhältnis zu Debian?"
 
 #: root/src/faq/index.tt2:17
 msgid "How often and when will it be released?"
@@ -125,7 +125,7 @@ msgstr ""
 msgid ""
 "If you have a server which just idles at time, we would happily use it as "
 "buildd for package building."
-msgstr ""
+msgstr "Wenn du einen Server hast der untätig herumsteht würden wir ihn gerne als buildd zum Bauen von Paketen nutzen."
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/index.tt2:11
@@ -134,7 +134,7 @@ msgstr ""
 
 #: root/src/contribute/index.tt2:25
 msgid "If you want, you could also provide an archive mirror."
-msgstr ""
+msgstr "Wenn du möchtest kannst du auch einen Archivspiegel bereitstellen."
 
 #: root/src/faq/index.tt2:52
 msgid "In case of disagreement will you start another project?"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: root/src/faq/index.tt2:49
 msgid "Is there a company behind this operating system?"
-msgstr ""
+msgstr "Steht hinter diesem Betriebssystem ein Unternehmen?"
 
 #: root/src/faq/index.tt2:28
 msgid "It's based on Debian, will it have long feature freezes?"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: root/src/index.tt2:6
 msgid "Made for YOU!"
-msgstr ""
+msgstr "Für DICH gemacht!"
 
 #: root/src/faq/index.tt2:11
 msgid "Needs to be easy to remember, maybe an unique name used nowhere else"
@@ -158,7 +158,7 @@ msgstr ""
 
 #: root/src/faq/index.tt2:12
 msgid "Nice sounding in English, German and Brazilian portuguese"
-msgstr ""
+msgstr "Guter Klang auf Englisch, Deutsch und brasilianischem Portugiesisch."
 
 #: root/src/faq/index.tt2:33
 msgid ""
@@ -172,7 +172,8 @@ msgstr ""
 msgid ""
 "No, we are setting up our own software archive so our users get\n"
 "the lastest software that we believe is stable enough."
-msgstr ""
+msgstr "Nein, wir setzen unsere eigenen Softwarearchive auf damit unsere Benutzer\n"
+"die neueste Software bekommen die wir als stabil genug erachten."
 
 #: root/src/faq/index.tt2:38
 msgid ""
@@ -196,7 +197,7 @@ msgstr ""
 
 #: root/src/header.tt2:89
 msgid "Planet"
-msgstr ""
+msgstr "Planet"
 
 #: root/src/contribute/index.tt2:12
 msgid "Promoting our project by writing articles about it."
@@ -205,11 +206,11 @@ msgstr ""
 #. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
 #: root/src/index.tt2:9
 msgid "Read the %1initial announcement%2."
-msgstr ""
+msgstr "Lies die %1ursprüngliche Ankündigung%2."
 
 #: root/src/header.tt2:93
 msgid "Search"
-msgstr ""
+msgstr "Suche"
 
 #: root/src/download/index.tt2:3
 msgid "Sorry! We are still in the womb, yet to be born :D"
@@ -267,7 +268,7 @@ msgstr ""
 
 #: root/src/contribute/index.tt2:10
 msgid "Translating this site, software, manuals or upstream projects."
-msgstr ""
+msgstr "Diese Seite, Software, Anleitungen oder Upstreamprojekte übersetzen."
 
 #: root/src/faq/index.tt2:43
 msgid ""
@@ -289,11 +290,11 @@ msgstr ""
 
 #: root/src/faq/index.tt2:8
 msgid "What does the name \"Tanglu\" mean?"
-msgstr ""
+msgstr "Was bedeutet der Name \"Tanglu\"?"
 
 #: root/src/faq/index.tt2:4
 msgid "What is Tanglu?"
-msgstr ""
+msgstr "Was ist Tanglu?"
 
 #: root/src/faq/index.tt2:53
 msgid ""
@@ -313,7 +314,7 @@ msgstr ""
 
 #: root/src/header.tt2:97
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: root/src/faq/index.tt2:22
 msgid "Will firmware be available on CDs?"
@@ -325,11 +326,11 @@ msgstr ""
 
 #: root/src/contribute/index.tt2:28
 msgid "With donations."
-msgstr ""
+msgstr "Mit Spenden."
 
 #: root/src/contribute/index.tt2:20
 msgid "With servers."
-msgstr ""
+msgstr "Mit Servern."
 
 #: root/src/contribute/index.tt2:6
 msgid "With time."
