@@ -75,7 +75,7 @@ msgstr "Dokumentationen für das Wiki erstellen."
 
 #: root/src/contribute/index.tt2:13
 msgid "Ensuring documentation on our website doesn't get out of date."
-msgstr "Pflege der Dokumentationen auf der Web Seite."
+msgstr "Pflege der Dokumentationen auf der Webseite." /// "Webseite" is the correct german word.
 
 #: root/src/header.tt2:86
 msgid "FAQ"
@@ -130,7 +130,7 @@ msgstr "Wenn du einen Server hast der untätig herumsteht würden wir ihn gerne 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/index.tt2:11
 msgid "If you want to get in contact, check out %1 on Freenode."
-msgstr ""
+msgstr "Wenn du in Kontakt treten möchtest, schau' mal in %1 auf Freenode vorbei."
 
 #: root/src/contribute/index.tt2:25
 msgid "If you want, you could also provide an archive mirror."
@@ -193,7 +193,7 @@ msgstr ""
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
 #: root/src/contribute/index.tt2:37
 msgid "Or you can also subscribe to our %1development mailinglist%2."
-msgstr ""
+msgstr "Du kannst aber auch unsere %1Entwicklungs-Mailingliste%2 abonnieren."
 
 #: root/src/header.tt2:89
 msgid "Planet"
@@ -201,7 +201,7 @@ msgstr "Planet"
 
 #: root/src/contribute/index.tt2:12
 msgid "Promoting our project by writing articles about it."
-msgstr ""
+msgstr "Fördere das Projekt indem du Artikel darüber schreibst."
 
 #. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
 #: root/src/index.tt2:9
@@ -244,6 +244,7 @@ msgid ""
 "Testing the software and be willing to help out on further tests to ensure we "
 "can fix the issues."
 msgstr ""
+"Teste die Software und hilf' bei möglichen weiteren Tests aus sodass wir sichergehen können dass die Fehler behoben werden können."
 
 #: root/src/header.tt2:5
 msgid "The Tanglu Open Project"
@@ -260,11 +261,12 @@ msgid ""
 "Time is the most expensive resource, if you are talented and have time to "
 "help out, here is a list of what we need:"
 msgstr ""
+"Zeit ist die kostbarste Ressource. Wenn du talentiert bist und Zeit hast, uns auszuhelfen - hier ist eine Liste was wir benötigen:"
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/contribute/index.tt2:36
 msgid "To get in touch with us, check out %1 on Freenode."
-msgstr ""
+msgstr "Um mit uns in Kontakt zu treten schau' in %1 auf Freenode."
 
 #: root/src/contribute/index.tt2:10
 msgid "Translating this site, software, manuals or upstream projects."
@@ -287,6 +289,7 @@ msgid ""
 "infrastructure to generate diffs for merging changes and for building "
 "packages."
 msgstr ""
+"Nachdem wir keine Rolling-Release Distribution sind müssen wir eine volle Kopie des Debian Archivs bereitstellen. Weiters müssen diffs generiert, Änderungen gemerged und Pakete gebaut werden. Dafür benötigen wir eine Menge Infrastruktur."
 
 #: root/src/faq/index.tt2:8
 msgid "What does the name \"Tanglu\" mean?"
@@ -334,7 +337,7 @@ msgstr "Mit Servern."
 
 #: root/src/contribute/index.tt2:6
 msgid "With time."
-msgstr ""
+msgstr "Mit Zeit."
 
 #: root/src/faq/index.tt2:50
 msgid ""
@@ -359,7 +362,7 @@ msgstr ""
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
 #: root/src/index.tt2:12
 msgid "You can also subscribe to one of our %1mailinglists%2."
-msgstr ""
+msgstr "Du kannst auch eine unserer %1Mailinglisten%2 abonnieren."
 
 #: root/src/contribute/index.tt2:3
 msgid "You can contribute on the following ways:"
