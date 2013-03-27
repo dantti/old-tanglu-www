@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2013-03-26 16:40+0100\n"
+"PO-Revision-Date: 2013-03-27 23:06+0100\n"
 "Last-Translator: Andy Jacobsen <atze@libra.uberspace.de>\n"
 "Language-Team: German <>\n"
 "Language: de_DE\n"
@@ -125,7 +125,9 @@ msgstr ""
 msgid ""
 "If you have a server which just idles at time, we would happily use it as "
 "buildd for package building."
-msgstr "Wenn du einen Server hast der untätig herumsteht würden wir ihn gerne als buildd zum Bauen von Paketen nutzen."
+msgstr ""
+"Wenn du einen Server hast der untätig herumsteht würden wir ihn gerne als "
+"buildd zum Bauen von Paketen nutzen."
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/index.tt2:11
@@ -172,7 +174,8 @@ msgstr ""
 msgid ""
 "No, we are setting up our own software archive so our users get\n"
 "the lastest software that we believe is stable enough."
-msgstr "Nein, wir setzen unsere eigenen Softwarearchive auf damit unsere Benutzer\n"
+msgstr ""
+"Nein, wir setzen unsere eigenen Softwarearchive auf damit unsere Benutzer\n"
 "die neueste Software bekommen die wir als stabil genug erachten."
 
 #: root/src/faq/index.tt2:38
@@ -334,9 +337,10 @@ msgstr "Mit Servern."
 
 #: root/src/contribute/index.tt2:6
 msgid "With time."
-msgstr ""
+msgstr "Mit Zeit."
 
 #: root/src/faq/index.tt2:50
+#, fuzzy
 msgid ""
 "Yes and no, yes because we need money to rent our servers and stuff, and no "
 "by there is no company dictating the flow of the project. We believe in "
@@ -345,8 +349,17 @@ msgid ""
 "same way a developer that maintains a few packages will have the right to "
 "decide what is best for those."
 msgstr ""
+"Ja und Nein. Ja weil wir Geld benötigen um Server zu mieten und Nein, "
+"die Entwicklung des Projekts wird nicht durch ein Unternehmen diktiert. "
+"Wir glauben an Merokratie, wenn ein Unternehmen entscheidet viele Entwickler "
+"mit uns zusammenarbeiten zu lassen, ist es natürlich, dass diese die "
+"Kontrolle haben "
+"über dass, wobei sie helfen. Genau wie jeder Entwickler, der ein paar Pakete "
+"betreut, "
+"das Recht hat zu entscheiden, was für diese das Beste ist."
 
 #: root/src/faq/index.tt2:23
+#, fuzzy
 msgid ""
 "Yes, it's very frustrating for the average user to try\n"
 "on their own to install firmware, especially when it's preventing\n"
@@ -355,6 +368,13 @@ msgid ""
 "proprietary modules in the distribution. We will also only include firmware "
 "which is part of upstream Linux."
 msgstr ""
+"Ja, es ist frustrierend für den Durchschnitts-Nutzer selber Firmware zu "
+"installieren, besonders, wenn es verhindert eine Verbindung ins Internet "
+"herzustellen. "
+"Wir werden Firmware zur Verfügung stellen, auch wenn sie nicht Open Source "
+"ist. "
+"Aber außer der Firmware, wird es keine proprietären Module in der "
+"Distribution geben. "
 
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
 #: root/src/index.tt2:12
@@ -379,4 +399,5 @@ msgid ""
 "Debian ecosystem. Of course we will participate in the %1DEX%2 project and "
 "work closely with Debian."
 msgstr ""
+
 
