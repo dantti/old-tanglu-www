@@ -28,21 +28,18 @@ Note that 'auto' runs after 'begin' but before your actions and that
 'auto's "chain" (all from application path to most specific class are run)
 See the 'Actions' section of 'Catalyst::Manual::Intro' for more info.
 
-TODO change this to a cookie on the user session
-
 =cut
 
 sub auto : Private {
     my ($self, $c) = @_;
 
-    if ($_ = scalar $c->req->param("lang") ) {
-        $c->languages( $_ );
-    }
+    $c->stash(tanglu => 1);
+
     if ($c->debug) {
         my $languages = $c->languages;
         $c->log->debug( "Languages setting: " . Data::Dump::dump($languages) );
     }
-    $c->stash(tanglu => 1);
+
     return 1;
 }
 
@@ -56,6 +53,34 @@ sub index :Path :Args(0) {
     my ( $self, $c ) = @_;
 
 }
+
+=head2 begin (builtin)
+
+Set the language the user has choosen
+
+=cut
+
+sub begin : Private {
+    my ( $self, $c ) = @_;
+    if($c->sessionid && $c->session->{lang}) {
+        $c->languages([$c->session->{lang}]);
+    }
+}
+
+
+=head2 set_lang
+
+(Re)set language of current session.
+
+=cut
+
+sub set_lang :Global {
+    my ($self,$c) = @_;
+
+    $c->session->{lang} = $c->req->params->{lang};
+    $c->res->redirect($c->req->params->{redir});
+}
+
 
 =head2 default
 

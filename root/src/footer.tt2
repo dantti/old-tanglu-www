@@ -1,10 +1,32 @@
-            <div class="footer">
-                <p>&copy; 2013 The Tanglu Contributors</p>
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span1">
+                    <div class="btn-group dropup">
+                        <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                            <i class="icon-flag"></i>
+                            <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            [% SET redir = c.uri_for('/' c.req.path) +%]
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'en', redir=>redir}) %]">[% l("English") %]</a></li>
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'pt-br', redir=>redir}) %]">[% l("Brazilian Portuguese") %]</a></li>
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">[% l("German") %]</a></li>
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">[% l("Spanish") %]</a></li>
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'ca', redir=>redir}) %]">[% l("Catalan") %]</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="span4"><p>&copy; 2013 The Tanglu Contributors</p></div>
+                <div class="span2">
                 <a href="http://debian.org">
                     <img src="[% c.uri_for('/static/images/debian-powered.gif') %]" alt="Debian Powered" />
                 </a>
+                </div>
             </div>
-
         </div>
+
+    </div><!-- /.container -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+        <script src="[% c.uri_for('/static/js/bootstrap.min.js') %]"></script>
     </body>
 </html>

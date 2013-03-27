@@ -31,9 +31,17 @@ msgstr ""
 msgid "Available domains (.org .net)"
 msgstr ""
 
+#: root/src/footer.tt2:12
+msgid "Brazilian Portuguese"
+msgstr ""
+
 #. ([ aHref, '</a>' ])
 #: root/src/download/index.tt2:6
 msgid "But wait! You can help, check it out the %1contribute section%2!"
+msgstr ""
+
+#: root/src/footer.tt2:15
+msgid "Catalan"
 msgstr ""
 
 #: root/src/contribute/index.tt2:32
@@ -60,6 +68,10 @@ msgstr ""
 msgid "Documenting procedures on the wiki, including screenshots if it makes for easier understanding"
 msgstr ""
 
+#: root/src/footer.tt2:11
+msgid "English"
+msgstr ""
+
 #: root/src/contribute/index.tt2:13
 msgid "Ensuring documentation on our website doesn't get out of date."
 msgstr ""
@@ -77,6 +89,10 @@ msgid ""
 "For now it is planned that we will release 2 times a year,\n"
 "but this isn't written in stone yet.\n"
 "Right now we are working on configuring servers to start building software"
+msgstr ""
+
+#: root/src/footer.tt2:13
+msgid "German"
 msgstr ""
 
 #: root/src/header.tt2:80
@@ -188,6 +204,10 @@ msgstr ""
 
 #: root/src/download/index.tt2:3
 msgid "Sorry! We are still in the womb, yet to be born :D"
+msgstr ""
+
+#: root/src/footer.tt2:14
+msgid "Spanish"
 msgstr ""
 
 #: root/src/faq/index.tt2:5
