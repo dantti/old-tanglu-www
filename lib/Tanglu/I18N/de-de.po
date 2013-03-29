@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2013-03-27 23:06+0100\n"
-"Last-Translator: Andy Jacobsen <atze@libra.uberspace.de>\n"
-"Language-Team: German <>\n"
+"PO-Revision-Date: 2013-03-29 16:47+0100\n"
+"Last-Translator: Matthias Klumpp\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: root/src/index.tt2:8
 msgid ""
@@ -73,9 +73,11 @@ msgid ""
 "easier understanding"
 msgstr "Dokumentationen für das Wiki erstellen."
 
+# "Webseite" is the correct german word.
+#
 #: root/src/contribute/index.tt2:13
 msgid "Ensuring documentation on our website doesn't get out of date."
-msgstr "Pflege der Dokumentationen auf der Webseite." /// "Webseite" is the correct german word.
+msgstr "Pflege der Dokumentationen auf der Webseite."
 
 #: root/src/header.tt2:86
 msgid "FAQ"
@@ -132,7 +134,8 @@ msgstr ""
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/index.tt2:11
 msgid "If you want to get in contact, check out %1 on Freenode."
-msgstr "Wenn du in Kontakt treten möchtest, schau' mal in %1 auf Freenode vorbei."
+msgstr ""
+"Wenn du in Kontakt treten möchtest, schau' mal in %1 auf Freenode vorbei."
 
 #: root/src/contribute/index.tt2:25
 msgid "If you want, you could also provide an archive mirror."
@@ -247,7 +250,8 @@ msgid ""
 "Testing the software and be willing to help out on further tests to ensure we "
 "can fix the issues."
 msgstr ""
-"Teste die Software und hilf' bei möglichen weiteren Tests aus sodass wir sichergehen können dass die Fehler behoben werden können."
+"Teste die Software und hilf' bei möglichen weiteren Tests aus sodass wir "
+"sichergehen können dass die Fehler behoben werden können."
 
 #: root/src/header.tt2:5
 msgid "The Tanglu Open Project"
@@ -264,7 +268,8 @@ msgid ""
 "Time is the most expensive resource, if you are talented and have time to "
 "help out, here is a list of what we need:"
 msgstr ""
-"Zeit ist die kostbarste Ressource. Wenn du talentiert bist und Zeit hast, uns auszuhelfen - hier ist eine Liste was wir benötigen:"
+"Zeit ist die kostbarste Ressource. Wenn du talentiert bist und Zeit hast, uns "
+"auszuhelfen - hier ist eine Liste was wir benötigen:"
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/contribute/index.tt2:36
@@ -292,7 +297,10 @@ msgid ""
 "infrastructure to generate diffs for merging changes and for building "
 "packages."
 msgstr ""
-"Nachdem wir keine Rolling-Release Distribution sind müssen wir eine volle Kopie des Debian Archivs bereitstellen. Weiters müssen diffs generiert, Änderungen gemerged und Pakete gebaut werden. Dafür benötigen wir eine Menge Infrastruktur."
+"Nachdem wir keine Rolling-Release Distribution sind müssen wir eine volle "
+"Kopie des Debian Archivs bereitstellen. Weiters müssen diffs generiert, "
+"Änderungen gemerged und Pakete gebaut werden. Dafür benötigen wir eine Menge "
+"Infrastruktur."
 
 #: root/src/faq/index.tt2:8
 msgid "What does the name \"Tanglu\" mean?"
