@@ -1,0 +1,502 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Michele <micheluzzo@inventati.org>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-03-29 11:37+0200\n"
+"Last-Translator: Michele <micheluzzo@inventati.org>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: root/src/index.tt2:8
+msgid ""
+"A new GNU/Linux distribution based on Debian, designed for human beings."
+msgstr ""
+"Una nuova distribuzione GNU/Linux basata su Debian, progettata per esseri "
+"umani."
+
+#: root/src/contribute/index.tt2:24
+msgid ""
+"Also, other services like the package queue, bugtracker, merge system etc. "
+"need capacity."
+msgstr ""
+"Inoltre altri servizi come la coda dei pacchetti, il bugtracker, il sistema "
+"di merge, ecc.. richiedono capacità."
+
+#: root/src/contribute/index.tt2:31
+msgid ""
+"As soon as the project has the minimum required to start running we will be "
+"accepting donations."
+msgstr ""
+"Non appena il progetto ha il minimo richiesto per iniziare a funzionare, "
+"accetteremo donazioni."
+
+#: root/src/faq/index.tt2:13
+msgid "Available domains (.org .net)"
+msgstr "Domini disponibili (.org .net)"
+
+#: root/src/footer.tt2:12
+msgid "Brazilian Portuguese"
+msgstr "Portoghese (Brasile)"
+
+#. ([ aHref, '</a>' ])
+#: root/src/download/index.tt2:6
+msgid "But wait! You can help, check it out the %1contribute section%2!"
+msgstr "Ma aspetta! Puoi aiutare, consulta la %1sezione \"Contribuisci\"%2!"
+
+#: root/src/footer.tt2:15
+msgid "Catalan"
+msgstr "Catalano"
+
+#: root/src/contribute/index.tt2:32
+msgid "Companies will also be able to sponsor the project."
+msgstr "Anche le aziende potranno sponsorizzare il progetto."
+
+#: root/src/header.tt2:83
+msgid "Contribute"
+msgstr "Contribuisci"
+
+#: root/src/contribute/index.tt2:11
+msgid "Designing wallpapers, bootup logos, this website."
+msgstr "Disegnare sfondi, loghi per il bootup, questo sito web."
+
+#: root/src/contribute/index.tt2:29
+msgid "Do you like the project but don't have time to contribute back?"
+msgstr "Ti piace il progetto ma non hai il tempo per contribuire?"
+
+#: root/src/faq/index.tt2:37
+msgid "Do you plan to heavily modify the software you ship?"
+msgstr "Avete in progetto di modificare pesantemente il software che fornite?"
+
+#: root/src/contribute/index.tt2:15
+msgid ""
+"Documenting procedures on the wiki, including screenshots if it makes for "
+"easier understanding"
+msgstr ""
+"Documentare procedure sul wiki, includendo screenshot se rendono più facile "
+"la "
+"comprensione"
+
+#: root/src/footer.tt2:11
+msgid "English"
+msgstr "Inglese"
+
+#: root/src/contribute/index.tt2:13
+msgid "Ensuring documentation on our website doesn't get out of date."
+msgstr "Assicurarsi che la documentazione sul nostro sito non diventi obsoleta"
+
+#: root/src/header.tt2:86
+msgid "FAQ"
+msgstr "FAQ"
+
+#: root/src/faq/index.tt2:9
+msgid "Finding a catchy name is by no means an easy job, our criteria was:"
+msgstr ""
+"Trovare un nome accattivante non è in alcun modo facile, i nostri criteri "
+"sono stati:"
+
+#: root/src/faq/index.tt2:18
+msgid ""
+"For now it is planned that we will release 2 times a year,\n"
+"but this isn't written in stone yet.\n"
+"Right now we are working on configuring servers to start building software"
+msgstr ""
+"Per ora il piano è di avere un rilascio 2 volte all'anno,\n"
+"ma non ancora è scritto nella pietra.\n"
+"Al momento stiamo lavorando a configurare i server per iniziare a compilare "
+"software"
+
+#: root/src/footer.tt2:13
+msgid "German"
+msgstr "Tedesco"
+
+#: root/src/header.tt2:80
+msgid "Get it"
+msgstr "Scarica"
+
+#: root/src/contribute/index.tt2:17
+msgid "Help creating packages."
+msgstr "Aiutare a creare pacchetti."
+
+#: root/src/contribute/index.tt2:16
+msgid "Help with website and infrastructure administration."
+msgstr "Aiuto con il sito web e l'amministrazione dell'infrastruttura."
+
+#: root/src/header.tt2:77
+msgid "Home"
+msgstr "Home"
+
+#: root/src/faq/index.tt2:46
+msgid "How is the relation to Debian?"
+msgstr "Com'è la relazione con Debian?"
+
+#: root/src/faq/index.tt2:17
+msgid "How often and when will it be released?"
+msgstr "Ogni quanto e quando sarà rilasciata?"
+
+#: root/src/contribute/index.tt2:23
+msgid ""
+"If you have a server which just idles at time, we would happily use it as "
+"buildd for package building."
+msgstr ""
+"Se hai un server che al momento è inutilizzato, lo useremmo volentieri come "
+"buildd per costruire pacchetti."
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/index.tt2:11
+msgid "If you want to get in contact, check out %1 on Freenode."
+msgstr "Se vuoi metterti in contatto, dai un'occhiata a %1 su Freenode."
+
+#: root/src/contribute/index.tt2:25
+msgid "If you want, you could also provide an archive mirror."
+msgstr "Se vuoi, potresti anche fornire un archivio mirror."
+
+#: root/src/faq/index.tt2:52
+msgid "In case of disagreement will you start another project?"
+msgstr "In caso di disaccordo inizierete un nuovo progetto?"
+
+#: root/src/faq/index.tt2:49
+msgid "Is there a company behind this operating system?"
+msgstr "C'è un'azienda dietro questo sistema operativo?"
+
+#: root/src/faq/index.tt2:28
+msgid "It's based on Debian, will it have long feature freezes?"
+msgstr "E' basata su Debian, avrà lunghi feature freeze?"
+
+#: root/src/index.tt2:6
+msgid "Made for YOU!"
+msgstr "Fatta per TE!"
+
+#: root/src/faq/index.tt2:11
+msgid "Needs to be easy to remember, maybe an unique name used nowhere else"
+msgstr ""
+"Dev'essere facile da ricordare, magari un nome unico, non usato da "
+"alcun'altra parte"
+
+#: root/src/faq/index.tt2:12
+msgid "Nice sounding in English, German and Brazilian portuguese"
+msgstr "Bel suono in Inglese, Tedesco e Portoghese brasiliano"
+
+#: root/src/faq/index.tt2:33
+msgid ""
+"No, all major desktops will be supported.\n"
+"We will provide screenshots and a small feature table to help the user to "
+"decide\n"
+"which desktop to choose on the Tanglu download page."
+msgstr ""
+"No, tutti i maggiori desktop saranno supportati.\n"
+"Forniremo schermate e una piccola tabella di funzionalità per aiutare "
+"l'utente a "
+"decidere\n"
+"quale desktop scegliere sulla pagina di download di Tanglu."
+
+#: root/src/faq/index.tt2:29
+msgid ""
+"No, we are setting up our own software archive so our users get\n"
+"the lastest software that we believe is stable enough."
+msgstr ""
+"No, stiamo impostando il nostro archivio software in modo che gli utenti "
+"ricevano\n"
+"il più recente software che riteniamo sufficientemente stabile."
+
+#: root/src/faq/index.tt2:38
+msgid ""
+"No, we want the user to have the look and feel intended\n"
+"by the original software developer. If we believe upstream isn't doing a "
+"good\n"
+"job we will talk to upstream first to find a solution which works for "
+"everyone. If this will not work in rare cases, we may decide to use a "
+"different upstream. We want to avoid in-house solutions, and everything "
+"developed for Tanglu will be available for other distributions too."
+msgstr ""
+"No, vogliamo che l'utente abbia il look and feel pensato\n"
+"dallo sviluppatore software originale. Se crediamo che upstream non si stia "
+"facendo un buon\n"
+"lavoro parleremo con l'upstream per prima cosa, per trovare una soluzione che "
+"funzioni per tutti. Se questo non funzionerà in rari casi, potremmo decidere "
+"di usare un diverso upstream. Vogliamo evitare soluzioni interne e ogni cosa "
+"sviluppata per Tanglu sarà disponibile anche per altre distribuzioni."
+
+#: root/src/404.tt2:2
+msgid "Oops! The page you was looking for was not found."
+msgstr "Oops! La pagina che cercavi non è stata trovata!"
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
+#: root/src/contribute/index.tt2:37
+msgid "Or you can also subscribe to our %1development mailinglist%2."
+msgstr "O puoi anche iscriverti alla nostra %1mailinglist di sviluppo%2."
+
+#: root/src/header.tt2:89
+msgid "Planet"
+msgstr "Planet"
+
+#: root/src/contribute/index.tt2:12
+msgid "Promoting our project by writing articles about it."
+msgstr "Promuovere il nostro progetto scrivendo articoli al riguardo."
+
+#. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
+#: root/src/index.tt2:9
+msgid "Read the %1initial announcement%2."
+msgstr "Leggi l'%1annuncio iniziale%2."
+
+#: root/src/header.tt2:93
+msgid "Search"
+msgstr "Cerca"
+
+#: root/src/download/index.tt2:3
+msgid "Sorry! We are still in the womb, yet to be born :D"
+msgstr "Scusa! Siamo ancora nell'utero, dobbiamo ancora nascere :D"
+
+#: root/src/footer.tt2:14
+msgid "Spanish"
+msgstr "Spagnolo"
+
+#: root/src/faq/index.tt2:5
+msgid ""
+"Tanglu is a GNU/Linux Operating System, which aims to provide the best\n"
+"desktop experience for regular users and enthusiasts."
+msgstr ""
+"Tanglu è un Sistema Operativo GNU/Linux, che punta a fornire la migliore\n"
+"esperienza desktop per utenti regolari ed entusiasti."
+
+#: root/src/faq/index.tt2:47
+msgid ""
+"Tanglu is not an 'offical' Debian project, although it was started together "
+"with some Debian Developers. But we think that Tanglu might help Debian. We "
+"will sync the permissions of all Debian developers, so they can maintain "
+"their packages in Tanglu during a Debian freeze if they want to do that, so "
+"Tanglu and it's users get the latest upstream software, while Debian can "
+"start the new release cycle with already tested packages from Tanglu. We "
+"believe that this will increase the package quality and result in a less "
+"rough start of Debian development after a freeze. However, Tanglu is not a "
+"Debian experimental distribution or playground for untested software. "
+"Everything in Tanglu should be usable for it's users and be released upstream "
+"software. We are in contact with Debian and try to keep the delta between "
+"Tanglu and Debian as low as possible, so we do not introduce "
+"incompatibilities."
+msgstr ""
+"Tanglu non è un progetto Debian 'ufficiale', anche se è iniziato con alcuni "
+"Sviluppatori Debian. Ma crediamo che Tanglu possa aiutare Debian. "
+"Sincronizzeremo i permessi di tutti gli sviluppatori Debian, in modo che "
+"possano mantenere i loro pacchetti in Tanglu durante un freeze Debian, se "
+"vogliono farlo, così che Tanglu e i suoi utenti abbiano il software upstream "
+"più recente, "
+" mentre Debian può iniziare un nuovo ciclo di rilascio con "
+"pacchetti già testati in Tanglu. Crediamo che questo aumenterà la qualità dei "
+"pacchetti e risulterà in uno sviluppo meno brusco di Debian dopo un freeze. "
+"Comunque Tanglu non è una distribuzione sperimentale Debian o un parco giochi "
+"per software non testato. Tutto in Tanglu dev'essere utilizzabile per i suoi "
+"utenti ed essere software rilasciato upstream. Siamo in contatto con Debian "
+"per mantenere il delta tra Tanglu e Debian il più piccolo possibile, per non "
+"introdurre incompatibilità."
+
+#: root/src/contribute/index.tt2:14
+msgid ""
+"Testing the software and be willing to help out on further tests to ensure we "
+"can fix the issues."
+msgstr ""
+"Testare il software ed esser pronto ad aiutare in test più approfonditi per "
+"assicurarsi "
+"che correggiamo gli errori."
+
+#: root/src/header.tt2:5
+msgid "The Tanglu Open Project"
+msgstr "Il Tanglu Open Project"
+
+#: root/src/faq/index.tt2:15
+msgid ""
+"The word then evolved out of the words tangerine and iglu (igloo), after "
+"trying a large number of words for days."
+msgstr ""
+"La parola poi è evoluta dalle parole tangerine e iglu (igloo), dopo aver "
+"provato un gran numero di parole per giorni."
+
+#: root/src/contribute/index.tt2:7
+msgid ""
+"Time is the most expensive resource, if you are talented and have time to "
+"help out, here is a list of what we need:"
+msgstr ""
+"Il tempo è la risorsa più costosa, se hai talento e tempo di aiutare, qui c'è "
+"una lista di ciò che serve:"
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/contribute/index.tt2:36
+msgid "To get in touch with us, check out %1 on Freenode."
+msgstr "Per metterti in contatto con noi, dai un'occhiata a %1 su Freenode."
+
+#: root/src/contribute/index.tt2:10
+msgid "Translating this site, software, manuals or upstream projects."
+msgstr "Tradurre questo sito, programmi, manuali o progetti upstream."
+
+#: root/src/faq/index.tt2:43
+msgid ""
+"We do contribute to Debian. The point is that Debian can not cover all "
+"possible use-cases, for example for people who want to use newer software, "
+"Debian freezes are annoying. But the freezes are a big strength if you want "
+"to use Debian as server OS. With Tanglu we want to build a distribution which "
+"provides a Debian experience for desktop users, Linux newbies and users who "
+"want up-to-date software and no rolling release."
+msgstr ""
+"Contribuiamo a Debian. Il punto è che Debian non può coprire tutti i "
+"casi-utente possibili, per esempio per persone che vogliano usare i programmi "
+"più recenti, i Debian freeze sono fastidiosi. Ma i freeze sono una grande "
+"forza se si vuole usare Debian come SO server. Con Tanglu vogliamo "
+"costruire una distribuzione che fornisca un'esperienza Debian per utenti "
+"desktop, newbie Linux e utenti che vogliano programmi aggiornati e non "
+"rolling release."
+
+#: root/src/contribute/index.tt2:21
+msgid ""
+"We need lots of infrastructure, since we are no rolling-release distribution "
+"and will have to provide a full Debian archive copy, as well as the required "
+"infrastructure to generate diffs for merging changes and for building "
+"packages."
+msgstr ""
+"Abbiamo bisogno di un sacco di infrastruttura, dato che non siamo una "
+"distribuzione rolling release e dovremo fornire una copia completa "
+"dell'archivio Debian, così come l'infrastruttura richiesta per generare diff "
+"per fondere cambiamenti e costruire pacchetti."
+
+#: root/src/faq/index.tt2:8
+msgid "What does the name \"Tanglu\" mean?"
+msgstr "Cosa vuol dire il nome \"Tanglu\"?"
+
+#: root/src/faq/index.tt2:4
+msgid "What is Tanglu?"
+msgstr "Cos'è Tanglu?"
+
+#: root/src/faq/index.tt2:53
+msgid ""
+"Who knows? The decision making process of this project will\n"
+"end up in voting sessions so again everyone involved (including a company's\n"
+"employees) will have the right to vote. Tanglu is entirely community-driven, "
+"so we expect that there will be problems from time to time, but we think that "
+"these can all be solved. We take every community-member and not-member "
+"serious and try to find a solution which works for most people."
+msgstr ""
+"Chissà? Il processo di decisione di questo progetto finirà\n"
+"in sessioni di voto così che tutte le persone coinvolte (inclusi i "
+"dipendenti\n"
+"di un'azienda) abbiano il diritto di votare. Tanglu è interamente portato "
+"avanti dalla comunità, "
+"quindi ci aspettiamo che ci siano problemi di tanto in tanto, ma pensiamo che "
+"possano "
+"essere risolti. Prendiamo ogni membro e non-membro della comunità seriamente "
+"e proviamo a trovare "
+"una soluzione che funzioni per la maggioranza delle persone."
+
+#: root/src/faq/index.tt2:42
+msgid ""
+"Why don’t you contribute to Debian directly and create yet another "
+"distribution?"
+msgstr ""
+"Perché non contribuite a Debian direttamente e create ancora un'altra "
+"distribuzione?"
+
+#: root/src/header.tt2:97
+msgid "Wiki"
+msgstr "Wiki"
+
+#: root/src/faq/index.tt2:22
+msgid "Will firmware be available on CDs?"
+msgstr "Il firmware sarà disponibile sui CD?"
+
+#: root/src/faq/index.tt2:32
+msgid "Will you have a default desktop environment?"
+msgstr "Avrete un ambiente desktop predefinito?"
+
+#: root/src/contribute/index.tt2:28
+msgid "With donations."
+msgstr "Con donazioni. "
+
+#: root/src/contribute/index.tt2:20
+msgid "With servers."
+msgstr "Con server."
+
+#: root/src/contribute/index.tt2:6
+msgid "With time."
+msgstr "Con tempo."
+
+#: root/src/faq/index.tt2:50
+msgid ""
+"Yes and no, yes because we need money to rent our servers and stuff, and no "
+"by there is no company dictating the flow of the project. We believe in "
+"meritocracy, if some company decides to put lots of developers to work with "
+"us it's natural that they will be able to control what they are helping, the "
+"same way a developer that maintains a few packages will have the right to "
+"decide what is best for those."
+msgstr ""
+"Sì e no, sì perché abbiamo bisogno di soldi per affittare i server e altre "
+"cose, e no perché non c'è nessuna azienda che detti il corso del progetto. "
+"Crediamo nella meritocrazia, se qualche azienda decide di mettere un sacco di "
+"sviluppatori a lavorare con noi è naturale che siano in grado di controllare "
+"ciò in cui stanno aiutando, allo stesso modo uno sviluppatore che mantiene "
+"un po' di pacchetti avrà il diritto di decidere cos'è meglio per questi."
+
+#: root/src/faq/index.tt2:23
+msgid ""
+"Yes, it's very frustrating for the average user to try\n"
+"on their own to install firmware, especially when it's preventing\n"
+"them from getting online. We will include firmware even if\n"
+"it isn't open source. But except for the firmware, there will be no "
+"proprietary modules in the distribution. We will also only include firmware "
+"which is part of upstream Linux."
+msgstr ""
+"Sì, è davvero frustrante per l'utente medio provare\n"
+"da solo a installare il firmware, specialmente quando questo impedisce\n"
+"di accedere alla rete. Includeremo il firmware anche se\n"
+"non è open source. Ma eccetto per il firmware, non ci saranno moduli "
+"proprietari nella distribuzione. Includeremo inoltre solo il firmware "
+"che è parte di Linux all'origine."
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
+#: root/src/index.tt2:12
+msgid "You can also subscribe to one of our %1mailinglists%2."
+msgstr "Puoi anche iscriverti a una delle nostre %1mailinglist%2."
+
+#: root/src/contribute/index.tt2:3
+msgid "You can contribute on the following ways:"
+msgstr "Puoi contribuire nei seguenti modi:"
+
+#. ([ '<a href="http://wiki.debian.org/DEX">', '</a>' ])
+#: root/src/faq/index.tt2:44
+msgid ""
+"You might ask why we have to create a new distribution for that, instead of "
+"creating improvements inside Debian? Creating a new distribution allows us to "
+"do stuff we can never do in Debian, for example including more firmware by "
+"default and having a time-based release cycle. These are already things which "
+"are a no-go for Debian, and that’s fine. We don’t want Debian to support "
+"these cases, as it is already a great distribution. We want to offer a distro "
+"as close to Debian as possible, but with a few modifications for use-cases "
+"which are not covered by Debian itself, and by doing that add value to the "
+"Debian ecosystem. Of course we will participate in the %1DEX%2 project and "
+"work closely with Debian."
+msgstr ""
+"Potresti chiedere perché dobbiamo creare una nuova distribuzione per questo, "
+"invece di "
+"portare miglioramenti dentro Debian? Creare una nuova distribuzione ci "
+"permette di "
+"fare cose che non potremmo mai fare in Debian, per esempio includere più "
+"firmware di "
+"default e avere un ciclo di rilascio su base temporale. Queste sono già "
+"cose che sono "
+"impossibili per Debian, e va bene. Non vogliamo che Debian supporti questi "
+"casi "
+"dato che è già una grande distribuzione. Vogliamo offrire una distribuzione "
+"il più vicino possibile "
+"a Debian, ma con qualche modifica per casi d'uso che non sono "
+"coperti da Debian "
+"stessa, e facendo ciò aggiungere valore all'ecosistema Debian. Sicuramente "
+"parteciperemo "
+"nel progetto %1DEX%2 e lavoreremo da vicino con Debian."
+
+
+

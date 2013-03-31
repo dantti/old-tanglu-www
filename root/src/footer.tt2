@@ -13,6 +13,7 @@
                             <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">[% l("German") %]</a></li>
                             <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">[% l("Spanish") %]</a></li>
                             <li><a href="[% c.uri_for('/set_lang',{lang=>'ca', redir=>redir}) %]">[% l("Catalan") %]</a></li>
+                            <li><a href="[% c.uri_for('/set_lang',{lang=>'it', redir=>redir}) %]">[% l("Italian") %]</a></li>
                         </ul>
                     </div>
                 </div>

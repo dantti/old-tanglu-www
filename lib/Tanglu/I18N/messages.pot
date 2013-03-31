@@ -144,6 +144,10 @@ msgstr ""
 msgid "It's based on Debian, will it have long feature freezes?"
 msgstr ""
 
+#: root/src/footer.tt2:16
+msgid "Italian"
+msgstr ""
+
 #: root/src/index.tt2:6
 msgid "Made for YOU!"
 msgstr ""
