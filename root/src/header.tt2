@@ -68,35 +68,80 @@
 
         <div class="container">
             <div class="masthead">
-                <div class="navbar">
+                <div class="navbar navbar-fixed-top">
                     <div class="navbar-inner">
                         <div class="container">
                             <a class="brand" href="http://www.tanglu.org">Tanglu</a>
-                            <ul class="nav">
-                                <li [% IF tanglu && c.namespace == "" %]class="active"[% END %]>
-                                    <a href="[% IF tanglu; c.uri_for('/'); ELSE %]http://www.tanglu.org[% END %]">[% c.loc("Home") %]</a>
-                                </li>
-                                <li [% IF tanglu && c.namespace.match('^download') %]class="active"[% END %]>
-                                    <a href="[% IF tanglu; c.uri_for('/download'); ELSE %]http://www.tanglu.org/download[% END %]">[% c.loc("Get it") %]</a>
-                                </li>
-                                <li [% IF tanglu && c.namespace.match("^contribute") %]class="active"[% END %] >
-                                    <a href="[% IF tanglu; c.uri_for('/contribute'); ELSE %]http://www.tanglu.org/contribute[% END %]">[% c.loc("Contribute") %]</a>
-                                </li>
-                                <li [% IF tanglu && c.namespace.match("^faq") %]class="active"[% END %]>
-                                    <a href="[% IF tanglu; c.uri_for('/faq'); ELSE %]http://www.tanglu.org/faq[% END %]">[% c.loc("FAQ") %]</a>
-                                </li>
-                                <li>
-                                    <a href="http://planet.tanglu.org">[% c.loc("Planet") %]</a>
-                                </li>
-                            </ul>
-                            <form class="navbar-search pull-right" action="http://wiki.tanglu.org/.search" method="get">
-                                <input type="text"  class="search-query" placeholder="[% c.loc("Search") %]" id="searchField" name="q" />
-                            </form>
-                            <ul class="nav pull-right">
-                                <li [% UNLESS tanglu %]class="active"[% END %]>
-                                    <a href="http://wiki.tanglu.org">[% c.loc("Wiki") %]</a>
-                                </li>
-                            </ul>
+                                <ul class="nav">
+                                    <li [% IF tanglu && c.namespace == "" %]class="active"[% END %]>
+                                        <a href="[% IF tanglu; c.uri_for('/'); ELSE %]http://www.tanglu.org[% END %]">[% c.loc("Home") %]</a>
+                                    </li>
+                                    <li [% IF tanglu && c.namespace.match('^download') %]class="active"[% END %]>
+                                        <a href="[% IF tanglu; c.uri_for('/download'); ELSE %]http://www.tanglu.org/download[% END %]">[% c.loc("Get it") %]</a>
+                                    </li>
+                                    <li [% IF tanglu && c.namespace.match("^contribute") %]class="active"[% END %] >
+                                        <a href="[% IF tanglu; c.uri_for('/contribute'); ELSE %]http://www.tanglu.org/contribute[% END %]">[% c.loc("Contribute") %]</a>
+                                    </li>
+                                    <li [% IF tanglu && c.namespace.match("^faq") %]class="active"[% END %]>
+                                        <a href="[% IF tanglu; c.uri_for('/faq'); ELSE %]http://www.tanglu.org/faq[% END %]">[% c.loc("FAQ") %]</a>
+                                    </li>
+                                    <li>
+                                        <a href="http://planet.tanglu.org">[% c.loc("Planet") %]</a>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-flag"></i><span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                        <li class="nav-header">[% l("Languages") %]</li>
+                                        [% SET redir = c.uri_for('/' c.req.path) +%]
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'en', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'en'; l("English"); ELSE; l("English ([_1])", "English"); END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'pt-br', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'pt-br' -%]
+                                                [% l("Brazilian Portuguese") %]
+                                            [% ELSE -%]
+                                                [% l("Brazilian Portuguese ([_1])", "Português do Brasil") %]
+                                            [% END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'de-de' -%]
+                                                [% l("German") %]
+                                            [% ELSE -%]
+                                                [% l("German ([_1])", "Deutsch") %]
+                                            [% END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'es' -%]
+                                                [% l("Spanish") %]
+                                            [% ELSE -%]
+                                                [% l("Spanish ([_1])", "Español") %]
+                                            [% END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'ca', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'ca' -%]
+                                                [% l("Catalan") %]
+                                            [% ELSE -%]
+                                                [% l("Catalan ([_1])", "Català") %]
+                                            [% END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'it', redir=>redir}) %]">
+                                            [% IF c.languages.0 == 'it' -%]
+                                                [% l("Italian") %]
+                                            [% ELSE -%]
+                                                [% l("Italian ([_1])", "Italiano") %]
+                                            [% END -%]</a>
+                                        </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <form class="navbar-search pull-right" action="http://wiki.tanglu.org/.search" method="get">
+                                    <input type="text"  class="search-query" placeholder="[% c.loc("Search") %]" id="searchField" name="q" />
+                                </form>
+                                <ul class="nav pull-right">
+                                    <li [% UNLESS tanglu %]class="active"[% END %]>
+                                        <a href="http://wiki.tanglu.org">[% c.loc("Wiki") %]</a>
+                                    </li>
+                                </ul>
                         </div>
                     </div>
                 </div><!-- /.navbar -->

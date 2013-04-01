@@ -1,6 +1,4 @@
 [% PROCESS header.tt2 index_page=index_page +%]
-
-            <hr />
             
             <div id="content" class="home">
                 <span class="message"><strong>[% status_msg || c.request.params.status_msg | html %]</strong></span>
