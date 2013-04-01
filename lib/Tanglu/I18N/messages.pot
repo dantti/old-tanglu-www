@@ -31,12 +31,12 @@ msgstr ""
 msgid "Available domains (.org .net)"
 msgstr ""
 
-#: root/src/footer.tt2:20
+#: root/src/header.tt2:101
 msgid "Brazilian Portuguese"
 msgstr ""
 
 #. ("Português do Brasil")
-#: root/src/footer.tt2:22
+#: root/src/header.tt2:103
 msgid "Brazilian Portuguese (%1)"
 msgstr ""
 
@@ -45,12 +45,12 @@ msgstr ""
 msgid "But wait! You can help, check it out the %1contribute section%2!"
 msgstr ""
 
-#: root/src/footer.tt2:41
+#: root/src/header.tt2:122
 msgid "Catalan"
 msgstr ""
 
 #. ("Català")
-#: root/src/footer.tt2:43
+#: root/src/header.tt2:124
 msgid "Catalan (%1)"
 msgstr ""
 
@@ -78,12 +78,12 @@ msgstr ""
 msgid "Documenting procedures on the wiki, including screenshots if it makes for easier understanding"
 msgstr ""
 
-#: root/src/footer.tt2:13
+#: root/src/header.tt2:97
 msgid "English"
 msgstr ""
 
 #. ("English")
-#: root/src/footer.tt2:15
+#: root/src/header.tt2:97
 msgid "English (%1)"
 msgstr ""
 
@@ -106,12 +106,12 @@ msgid ""
 "Right now we are working on configuring servers to start building software"
 msgstr ""
 
-#: root/src/footer.tt2:27
+#: root/src/header.tt2:108
 msgid "German"
 msgstr ""
 
 #. ("Deutsch")
-#: root/src/footer.tt2:29
+#: root/src/header.tt2:110
 msgid "German (%1)"
 msgstr ""
 
@@ -164,13 +164,17 @@ msgstr ""
 msgid "It's based on Debian, will it have long feature freezes?"
 msgstr ""
 
-#: root/src/footer.tt2:48
+#: root/src/header.tt2:129
 msgid "Italian"
 msgstr ""
 
 #. ("Italiano")
-#: root/src/footer.tt2:50
+#: root/src/header.tt2:131
 msgid "Italian (%1)"
+msgstr ""
+
+#: root/src/header.tt2:94
+msgid "Languages"
 msgstr ""
 
 #: root/src/index.tt2:6
@@ -227,7 +231,7 @@ msgstr ""
 msgid "Read the %1initial announcement%2."
 msgstr ""
 
-#: root/src/header.tt2:93
+#: root/src/header.tt2:138
 msgid "Search"
 msgstr ""
 
@@ -235,12 +239,12 @@ msgstr ""
 msgid "Sorry! We are still in the womb, yet to be born :D"
 msgstr ""
 
-#: root/src/footer.tt2:34
+#: root/src/header.tt2:115
 msgid "Spanish"
 msgstr ""
 
 #. ("Español")
-#: root/src/footer.tt2:36
+#: root/src/header.tt2:117
 msgid "Spanish (%1)"
 msgstr ""
 
@@ -306,7 +310,7 @@ msgstr ""
 msgid "Why don’t you contribute to Debian directly and create yet another distribution?"
 msgstr ""
 
-#: root/src/header.tt2:97
+#: root/src/header.tt2:142
 msgid "Wiki"
 msgstr ""
 
