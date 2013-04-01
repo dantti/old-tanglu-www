@@ -62,7 +62,7 @@ Set the language the user has choosen
 
 sub begin : Private {
     my ( $self, $c ) = @_;
-    if($c->sessionid && $c->session->{lang}) {
+    if ($c->sessionid && $c->session->{lang}) {
         $c->languages([$c->session->{lang}]);
     }
 }

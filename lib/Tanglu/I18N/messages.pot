@@ -31,8 +31,13 @@ msgstr ""
 msgid "Available domains (.org .net)"
 msgstr ""
 
-#: root/src/footer.tt2:12
+#: root/src/footer.tt2:20
 msgid "Brazilian Portuguese"
+msgstr ""
+
+#. ("Português do Brasil")
+#: root/src/footer.tt2:22
+msgid "Brazilian Portuguese (%1)"
 msgstr ""
 
 #. ([ aHref, '</a>' ])
@@ -40,8 +45,13 @@ msgstr ""
 msgid "But wait! You can help, check it out the %1contribute section%2!"
 msgstr ""
 
-#: root/src/footer.tt2:15
+#: root/src/footer.tt2:41
 msgid "Catalan"
+msgstr ""
+
+#. ("Català")
+#: root/src/footer.tt2:43
+msgid "Catalan (%1)"
 msgstr ""
 
 #: root/src/contribute/index.tt2:32
@@ -68,8 +78,13 @@ msgstr ""
 msgid "Documenting procedures on the wiki, including screenshots if it makes for easier understanding"
 msgstr ""
 
-#: root/src/footer.tt2:11
+#: root/src/footer.tt2:13
 msgid "English"
+msgstr ""
+
+#. ("English")
+#: root/src/footer.tt2:15
+msgid "English (%1)"
 msgstr ""
 
 #: root/src/contribute/index.tt2:13
@@ -91,8 +106,13 @@ msgid ""
 "Right now we are working on configuring servers to start building software"
 msgstr ""
 
-#: root/src/footer.tt2:13
+#: root/src/footer.tt2:27
 msgid "German"
+msgstr ""
+
+#. ("Deutsch")
+#: root/src/footer.tt2:29
+msgid "German (%1)"
 msgstr ""
 
 #: root/src/header.tt2:80
@@ -144,8 +164,13 @@ msgstr ""
 msgid "It's based on Debian, will it have long feature freezes?"
 msgstr ""
 
-#: root/src/footer.tt2:16
+#: root/src/footer.tt2:48
 msgid "Italian"
+msgstr ""
+
+#. ("Italiano")
+#: root/src/footer.tt2:50
+msgid "Italian (%1)"
 msgstr ""
 
 #: root/src/index.tt2:6
@@ -210,8 +235,13 @@ msgstr ""
 msgid "Sorry! We are still in the womb, yet to be born :D"
 msgstr ""
 
-#: root/src/footer.tt2:14
+#: root/src/footer.tt2:34
 msgid "Spanish"
+msgstr ""
+
+#. ("Español")
+#: root/src/footer.tt2:36
+msgid "Spanish (%1)"
 msgstr ""
 
 #: root/src/faq/index.tt2:5
