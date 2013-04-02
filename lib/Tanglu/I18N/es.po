@@ -1,20 +1,20 @@
 # Tanglu webpage in spanish
 # Copyright © 2013 Gonzalo Alcalde, Noel Torres
 # This file is distributed under the same license as the Tanglu webpage.
-#
+# 
 # Gonzalo Alcalde <g1r9a8g5@gmail.com>, 2013
 # Noel David Torres Taño <envite@rolamasao.org>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: web-20130327\n"
+"Project-Id-Version: web-20130403\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2013-03-28 01:15+0000\n"
+"PO-Revision-Date: 2013-04-03 00:42+0100\n"
 "Last-Translator: Noel David Torres Taño <envite@rolamasao.org>\n"
 "Language-Team: Tanglu ES translators <tanglu-devel@lists.tanglu.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: root/src/404.tt2:2
@@ -367,9 +367,9 @@ msgstr ""
 "después de la congelación. Sin embargo, Tanglu no es una distribución "
 "experimental de Debian o un patio de recreo para el software no probado. "
 "Todo en Tanglu debe ser utilizable para sus usuarios y ser software liberado "
-"por los desarrolladores originales. Estamos en contacto con Debian y tratamos "
-"de mantener la diferencia entre Tanglu y Debian lo menor posible, para no "
-"introducir incompatibilidades."
+"por los desarrolladores originales. Estamos en contacto con Debian y "
+"tratamos de mantener la diferencia entre Tanglu y Debian lo menor posible, "
+"para no introducir incompatibilidades."
 
 #: root/src/faq/index.tt2:49
 msgid "Is there a company behind this operating system?"
@@ -389,8 +389,8 @@ msgstr ""
 "Creemos en la meritocracia, si alguna empresa decide poner un montón de "
 "desarrolladores para trabajar con nosotros es natural que sean capaces de "
 "controlar aquello en lo que están ayudando, de la misma manera un "
-"desarrollador que mantiene algunos paquetes tiene el derecho a decidir qué es "
-"lo mejor para ellos."
+"desarrollador que mantiene algunos paquetes tiene el derecho a decidir qué "
+"es lo mejor para ellos."
 
 #: root/src/faq/index.tt2:52
 msgid "In case of disagreement will you start another project?"
@@ -406,8 +406,7 @@ msgid ""
 "serious and try to find a solution which works for most people."
 msgstr ""
 "¿Quién sabe? Cada toma de decisiones de este proyecto terminará en sesiones "
-"de "
-"votación así que todos los involucrados (incluyendo los empleados de una "
+"de votación así que todos los involucrados (incluyendo los empleados de una "
 "empresa) tendrán derecho a voto. Tanglu está totalmente dirigido por la "
 "comunidad, por lo que esperamos que haya problemas de vez en cuando, pero "
 "creemos que pueden ser resueltos. Tomamos en serio a todos los miembros y no "
@@ -438,11 +437,39 @@ msgstr "Preguntas Frecuentes"
 msgid "Planet"
 msgstr "Planeta"
 
-#: root/src/header.tt2:93
+#: root/src/header.tt2:94
+msgid "Languages"
+msgstr "Idiomas"
+
+#: root/src/header.tt2:96
+msgid "English"
+msgstr "Inglés"
+
+#: root/src/header.tt2:99
+msgid "Brazilian Portuguese"
+msgstr "Portugués brasileño"
+
+#: root/src/header.tt2:102
+msgid "German"
+msgstr "Alemán"
+
+#: root/src/header.tt2:105
+msgid "Spanish"
+msgstr "Español"
+
+#: root/src/header.tt2:108
+msgid "Catalan"
+msgstr "Catalán"
+
+#: root/src/header.tt2:111
+msgid "Italian"
+msgstr "Italiano"
+
+#: root/src/header.tt2:118
 msgid "Search"
 msgstr "Buscar"
 
-#: root/src/header.tt2:97
+#: root/src/header.tt2:122
 msgid "Wiki"
 msgstr "Wiki"
 
