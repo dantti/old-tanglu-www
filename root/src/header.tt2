@@ -93,43 +93,23 @@
                                         <ul class="dropdown-menu">
                                         <li class="nav-header">[% l("Languages") %]</li>
                                         [% SET redir = c.uri_for('/' c.req.path) +%]
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'en', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'en'; l("English"); ELSE; l("English ([_1])", "English"); END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'en', redir=>redir}) %]">[% l("English") %]
+                                            [% IF c.languages.0 != 'en' %](English)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'pt-br', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'pt-br' -%]
-                                                [% l("Brazilian Portuguese") %]
-                                            [% ELSE -%]
-                                                [% l("Brazilian Portuguese ([_1])", "Português do Brasil") %]
-                                            [% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'pt-br', redir=>redir}) %]">[% l("Brazilian Portuguese") %]
+                                            [% IF c.languages.0 != 'pt-br' -%](Português do Brasil)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'de-de' -%]
-                                                [% l("German") %]
-                                            [% ELSE -%]
-                                                [% l("German ([_1])", "Deutsch") %]
-                                            [% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">[% l("German") %]
+                                            [% IF c.languages.0 != 'de-de' -%](Deutsch)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'es' -%]
-                                                [% l("Spanish") %]
-                                            [% ELSE -%]
-                                                [% l("Spanish ([_1])", "Español") %]
-                                            [% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">[% l("Spanish") %]
+                                            [% IF c.languages.0 != 'es' -%](Español)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'ca', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'ca' -%]
-                                                [% l("Catalan") %]
-                                            [% ELSE -%]
-                                                [% l("Catalan ([_1])", "Català") %]
-                                            [% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'ca', redir=>redir}) %]">[% l("Catalan") %]
+                                            [% IF c.languages.0 != 'ca' -%](Català)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'it', redir=>redir}) %]">
-                                            [% IF c.languages.0 == 'it' -%]
-                                                [% l("Italian") %]
-                                            [% ELSE -%]
-                                                [% l("Italian ([_1])", "Italiano") %]
-                                            [% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'it', redir=>redir}) %]">[% l("Italian") %]
+                                            [% IF c.languages.0 != 'it' -%](Italiano)[% END -%]</a>
                                         </li>
                                         </ul>
                                     </li>
