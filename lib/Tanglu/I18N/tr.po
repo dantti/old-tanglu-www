@@ -1,0 +1,496 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Fatih Aşıcı <fatih.asici@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-04-03 16:30+0300\n"
+"Last-Translator: Fatih Aşıcı <fatih.asici@gmail.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.4\n"
+
+#: root/src/index.tt2:8
+msgid ""
+"A new GNU/Linux distribution based on Debian, designed for human beings."
+msgstr "İnsanlar için tasarlanmış Debian tabanlı yeni bir GNU/Linux dağıtımı."
+
+#: root/src/contribute/index.tt2:24
+msgid ""
+"Also, other services like the package queue, bugtracker, merge system etc. "
+"need capacity."
+msgstr ""
+"Ayrıca, paket kuyruğu, hata takibi, merge sistemi vs. gibi hizmetler için "
+"kapasite gerekiyor."
+
+#: root/src/contribute/index.tt2:31
+msgid ""
+"As soon as the project has the minimum required to start running we will be "
+"accepting donations."
+msgstr ""
+"Proje, çalışmaya başlamak için minimum yeterliliğe sahip olur olmaz bağışları "
+"kabul etmeye başlayacağız."
+
+#: root/src/faq/index.tt2:13
+msgid "Available domains (.org .net)"
+msgstr "Mevcut alan adları (.org .net)"
+
+#: root/src/header.tt2:99
+msgid "Brazilian Portuguese"
+msgstr "Brezilya Portekizcesi"
+
+#. ([ aHref, '</a>' ])
+#: root/src/download/index.tt2:6
+msgid "But wait! You can help, check it out the %1contribute section%2!"
+msgstr "Ama bekleyin! Yardım edebilirsiniz. %1Katkı sayfasına%2 bir göz atın!"
+
+#: root/src/header.tt2:108
+msgid "Catalan"
+msgstr "Katalonya dili"
+
+#: root/src/contribute/index.tt2:32
+msgid "Companies will also be able to sponsor the project."
+msgstr "Şirketler de projeye destek olabileceklerdir."
+
+#: root/src/header.tt2:83
+msgid "Contribute"
+msgstr "Katkı Verin"
+
+#: root/src/contribute/index.tt2:11
+msgid "Designing wallpapers, bootup logos, this website."
+msgstr "Duvar kağıtları, önyükleme logoları, bu web sitesinin tasarımı."
+
+#: root/src/contribute/index.tt2:29
+msgid "Do you like the project but don't have time to contribute back?"
+msgstr "Projeyi sevdiniz; fakat katkı verecek vaktiniz mi yok?"
+
+#: root/src/faq/index.tt2:37
+msgid "Do you plan to heavily modify the software you ship?"
+msgstr ""
+"Sunduğunuz yazılımları yoğun bir şekilde değiştirmeyi planlıyor musunuz?"
+
+#: root/src/contribute/index.tt2:15
+msgid ""
+"Documenting procedures on the wiki, including screenshots if it makes for "
+"easier understanding"
+msgstr ""
+"Vikideki prosedürleri - anlamayı kolaylaştırıyorsa ekran görüntüleriyle "
+"beraber - belgeleme"
+
+#: root/src/header.tt2:96
+msgid "English"
+msgstr "İngilizce"
+
+#: root/src/contribute/index.tt2:13
+msgid "Ensuring documentation on our website doesn't get out of date."
+msgstr "Web sitemizdeki belgelerin eskimediğinden emin olmak."
+
+#: root/src/header.tt2:86
+msgid "FAQ"
+msgstr "SSS"
+
+#: root/src/faq/index.tt2:9
+msgid "Finding a catchy name is by no means an easy job, our criteria was:"
+msgstr ""
+"Çekici bir isim bulmak hiç de kolay bir iş değil. Kriterlerimiz şunlardı:"
+
+#: root/src/faq/index.tt2:18
+msgid ""
+"For now it is planned that we will release 2 times a year,\n"
+"but this isn't written in stone yet.\n"
+"Right now we are working on configuring servers to start building software"
+msgstr ""
+"Şu an için yılda iki sürüm çıkarmayı düşünüyoruz;\n"
+"ancak bu henüz kesin bir karar değil.\n"
+"Şu anda yazılımları inşa etmeye başlamak için sunucularımızı yapılandırmakla "
+"uğraşıyoruz."
+
+#: root/src/header.tt2:102
+msgid "German"
+msgstr "Almanca"
+
+#: root/src/header.tt2:80
+msgid "Get it"
+msgstr "Edinin"
+
+#: root/src/contribute/index.tt2:17
+msgid "Help creating packages."
+msgstr "Paket oluşturmaya yardım edin."
+
+#: root/src/contribute/index.tt2:16
+msgid "Help with website and infrastructure administration."
+msgstr "Bu site ve altyapı yönetimi için yardım edin."
+
+#: root/src/header.tt2:77
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: root/src/faq/index.tt2:46
+msgid "How is the relation to Debian?"
+msgstr "Debian ile ilişkiler nasıl olacak?"
+
+#: root/src/faq/index.tt2:17
+msgid "How often and when will it be released?"
+msgstr "Ne kadar sık ve ne zaman sürüm çıkarılacak?"
+
+#: root/src/contribute/index.tt2:23
+msgid ""
+"If you have a server which just idles at time, we would happily use it as "
+"buildd for package building."
+msgstr ""
+"Eğer zamanını boş geçiren bir sunucunuz varsa paket inşasında kullanmak üzere "
+"onu buildd olarak kullanabiliriz."
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/index.tt2:11
+msgid "If you want to get in contact, check out %1 on Freenode."
+msgstr ""
+"İletişime geçmek isterseniz, Freenode sunucusundaki %1 kanalını kontrol edin."
+
+#: root/src/contribute/index.tt2:25
+msgid "If you want, you could also provide an archive mirror."
+msgstr "İsterseniz bir arşiv yansısı da sağlayabilirsiniz."
+
+#: root/src/faq/index.tt2:52
+msgid "In case of disagreement will you start another project?"
+msgstr "Anlaşmazlık durumunda başka bir proje daha başlatacak mısınız?"
+
+#: root/src/faq/index.tt2:49
+msgid "Is there a company behind this operating system?"
+msgstr "Bu işletim sisteminin arkasında bir şirket var mı?"
+
+#: root/src/faq/index.tt2:28
+msgid "It's based on Debian, will it have long feature freezes?"
+msgstr "Debian tabanlı dediniz. Peki uzun özellik dondurma süreleri olacak mı?"
+
+#: root/src/header.tt2:111
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: root/src/header.tt2:94
+msgid "Languages"
+msgstr "Diller"
+
+#: root/src/index.tt2:6
+msgid "Made for YOU!"
+msgstr "SİZİN için hazırlandı!"
+
+#: root/src/faq/index.tt2:11
+msgid "Needs to be easy to remember, maybe an unique name used nowhere else"
+msgstr ""
+"Hatırlaması kolay belki de başka bir yerde kullanılmamış özgün bir isim olmalı"
+
+#: root/src/faq/index.tt2:12
+msgid "Nice sounding in English, German and Brazilian portuguese"
+msgstr "İngilizce, Almanca ve Brezilya Portekizcesinde sesi hoş"
+
+#: root/src/faq/index.tt2:33
+msgid ""
+"No, all major desktops will be supported.\n"
+"We will provide screenshots and a small feature table to help the user to "
+"decide\n"
+"which desktop to choose on the Tanglu download page."
+msgstr ""
+"Hayır, tüm majör masaüstleri desteklenecektir.\n"
+"Tanglu indirme sayfasında kullanıcının hangi masaüstünü seçeceğine karar "
+"verebilmesi\n"
+"için ekran görüntüleri ve küçük bir özellik tablosu sağlayacağız."
+
+#: root/src/faq/index.tt2:29
+msgid ""
+"No, we are setting up our own software archive so our users get\n"
+"the lastest software that we believe is stable enough."
+msgstr ""
+"Hayır, kendi yazılım arşivimizi kurmaktayız. Böylece kullanıcılarımız "
+"yeterince\n"
+"kararlı olduğunu düşündüğümüz en yeni yazılımları edinecekler."
+
+#: root/src/faq/index.tt2:38
+msgid ""
+"No, we want the user to have the look and feel intended\n"
+"by the original software developer. If we believe upstream isn't doing a "
+"good\n"
+"job we will talk to upstream first to find a solution which works for "
+"everyone. If this will not work in rare cases, we may decide to use a "
+"different upstream. We want to avoid in-house solutions, and everything "
+"developed for Tanglu will be available for other distributions too."
+msgstr ""
+"Hayır, kullanıcının asıl yazılım geliştiricisinin istediği görsel ve işitsel "
+"öğelere\n"
+"sahip olmasını istiyoruz. Eğer üst geliştiricinin doğru bir iş yapmadığına "
+"inanıyorsak\n"
+"herkese uygun bir çözüm bulmak için öncelikle üst geliştirici ile "
+"konuşacağız. Eğer bu işe yaramayacaksa farklı bir üst geliştirici bulmaya "
+"karar verebiliriz. Projeye özgü çözümlerden uzak durmak istiyoruz. Tanglu "
+"için geliştirilmiş her şey diğer dağıtımlar için de kullanılabilir olmalı."
+
+#: root/src/404.tt2:2
+msgid "Oops! The page you was looking for was not found."
+msgstr "Hop! Aradığınız sayfa bulunamadı."
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
+#: root/src/contribute/index.tt2:37
+msgid "Or you can also subscribe to our %1development mailinglist%2."
+msgstr "Veya %1geliştirici eposta listesine%2 üye de olabilirsiniz."
+
+#: root/src/header.tt2:89
+msgid "Planet"
+msgstr "Gezegen"
+
+#: root/src/contribute/index.tt2:12
+msgid "Promoting our project by writing articles about it."
+msgstr "Projemiz hakkında makaleler yazarak desteklemek."
+
+#. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
+#: root/src/index.tt2:9
+msgid "Read the %1initial announcement%2."
+msgstr "%1Projenin ilk duyurusunu%2 okuyun."
+
+#: root/src/header.tt2:118
+msgid "Search"
+msgstr "Ara"
+
+#: root/src/download/index.tt2:3
+msgid "Sorry! We are still in the womb, yet to be born :D"
+msgstr "Üzgünüz! Henüz ana karnında doğmak üzereyiz :D"
+
+#: root/src/header.tt2:105
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: root/src/faq/index.tt2:5
+msgid ""
+"Tanglu is a GNU/Linux Operating System, which aims to provide the best\n"
+"desktop experience for regular users and enthusiasts."
+msgstr ""
+"Tanglu, sıradan kullanıcılar ve meraklılar için en iyi masaüstü deneyimini\n"
+"sağlamayı hedeflemiş bir GNU/Linux işletim sistemidir."
+
+#: root/src/faq/index.tt2:47
+msgid ""
+"Tanglu is not an 'offical' Debian project, although it was started together "
+"with some Debian Developers. But we think that Tanglu might help Debian. We "
+"will sync the permissions of all Debian developers, so they can maintain "
+"their packages in Tanglu during a Debian freeze if they want to do that, so "
+"Tanglu and it's users get the latest upstream software, while Debian can "
+"start the new release cycle with already tested packages from Tanglu. We "
+"believe that this will increase the package quality and result in a less "
+"rough start of Debian development after a freeze. However, Tanglu is not a "
+"Debian experimental distribution or playground for untested software. "
+"Everything in Tanglu should be usable for it's users and be released upstream "
+"software. We are in contact with Debian and try to keep the delta between "
+"Tanglu and Debian as low as possible, so we do not introduce "
+"incompatibilities."
+msgstr ""
+"Tanglu, bazı Debian geliştiricileriyle beraber başlamış olsa da 'resmi' bir "
+"Debian projesi değildir. Ancak Tanglu'nun Debian'a yardım edebileceğini "
+"düşünüyoruz. Tüm Debian geliştiricilerinin izinlerini senkron tutacağız. "
+"İsterlerse Debian donma sürecinde paketlerinin bakımını Tanglu'da "
+"yapabilecekler ve böylece Tanglu ve kullanıcıları en son yazılımları "
+"edinirken Debian yeni bir sürüm devresine Tanglu'da zaten test edilmiş "
+"paketlerle başlayabilecektir. Bunun paket kalitesini artıracağına ve bir "
+"donma sürecinden sonra Debian'ın geliştirme sürecine daha az sancılı bir "
+"şekilde başlamasına yol açacağına inanıyoruz. Ancak Tanglu, deneysel bir "
+"Debian dağıtımı ya da test edilmemiş yazılımların oyun alanı değildir. "
+"Tanglu'daki her şey kullanıcıları tarafından kullanılabilir ve sürümü çıkmış "
+"üst geliştirici yazılımı olmalıdır. Tanglu ile Debian arasındaki farklılığı "
+"olabildiğince küçük tutmak için Debian ile temas halinde olacağız ve "
+"dolayısıyla herhangi bir uyumsuzluğa yol açmayacağız."
+
+#: root/src/contribute/index.tt2:14
+msgid ""
+"Testing the software and be willing to help out on further tests to ensure we "
+"can fix the issues."
+msgstr ""
+"Yazılımları test etmek ve sorunları düzeltebileceğimizden emin olmak için "
+"daha sonraki testlerde de yardımcı olmaya istekli olmak."
+
+#: root/src/header.tt2:5
+msgid "The Tanglu Open Project"
+msgstr "Tanglu Açık Kaynak Projesi"
+
+#: root/src/faq/index.tt2:15
+msgid ""
+"The word then evolved out of the words tangerine and iglu (igloo), after "
+"trying a large number of words for days."
+msgstr ""
+"Günlerce süren birçok kelime denemesinden sonra kelime, tangerine (mandalina) "
+"ve iglu (igloo - Eskimo) kelimeleri üzerinden dönüştü."
+
+#: root/src/contribute/index.tt2:7
+msgid ""
+"Time is the most expensive resource, if you are talented and have time to "
+"help out, here is a list of what we need:"
+msgstr ""
+"Zaman en pahalı kaynaktır. Eğer yeteneğiz ve yardım edecek zamanınız varsa, "
+"işte ihtiyaç duyduklarımızın bir listesi:"
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/contribute/index.tt2:36
+msgid "To get in touch with us, check out %1 on Freenode."
+msgstr ""
+"İletişime geçmek isterseniz, Freenode sunucusundaki %1 kanalını kontrol edin."
+
+#: root/src/contribute/index.tt2:10
+msgid "Translating this site, software, manuals or upstream projects."
+msgstr ""
+"Bu siteyi, yazılımları, kılavuzları ve üst projeleri farklı dillere çevirmek."
+
+#: root/src/faq/index.tt2:43
+msgid ""
+"We do contribute to Debian. The point is that Debian can not cover all "
+"possible use-cases, for example for people who want to use newer software, "
+"Debian freezes are annoying. But the freezes are a big strength if you want "
+"to use Debian as server OS. With Tanglu we want to build a distribution which "
+"provides a Debian experience for desktop users, Linux newbies and users who "
+"want up-to-date software and no rolling release."
+msgstr ""
+"Debian'a katkı veriyoruz. Önemli olan nokta Debian'ın tüm olası "
+"gereksinimleri kapsayamaması. Örneğin daha yeni yazılımları kullanmak isteyen "
+"kullanıcılar için Debian donma süreçleri sinir bozucudur. Ancak bu süreçler "
+"Debian'ı bir sunucu sistemi olarak kullanmak istiyorsanız büyük bir güçtür.  "
+"Tanglu ile masaüstü kullanıcıları, Linux acemileri ve güncel ama kararlı "
+"yazılım isteyen kullanıcılar için bir Debian deneyimi sağlayacak bir dağıtım "
+"inşa etmek istiyoruz."
+
+#: root/src/contribute/index.tt2:21
+msgid ""
+"We need lots of infrastructure, since we are no rolling-release distribution "
+"and will have to provide a full Debian archive copy, as well as the required "
+"infrastructure to generate diffs for merging changes and for building "
+"packages."
+msgstr ""
+"Rolling-release dağıtımı olmadığımız ve değişiklikleri merge etmek için "
+"gerekli diff'leri üretecek ve paketleri inşa edecek altyapı yanında tam bir "
+"Debian arşiv kopyası sağlamak zorunda olduğumuz için büyük bir altyapı "
+"ihtiyacımız var."
+
+#: root/src/faq/index.tt2:8
+msgid "What does the name \"Tanglu\" mean?"
+msgstr "\"Tanglu\" ismi ne anlama geliyor?"
+
+#: root/src/faq/index.tt2:4
+msgid "What is Tanglu?"
+msgstr "Tanglu nedir?"
+
+#: root/src/faq/index.tt2:53
+msgid ""
+"Who knows? The decision making process of this project will\n"
+"end up in voting sessions so again everyone involved (including a company's\n"
+"employees) will have the right to vote. Tanglu is entirely community-driven, "
+"so we expect that there will be problems from time to time, but we think that "
+"these can all be solved. We take every community-member and not-member "
+"serious and try to find a solution which works for most people."
+msgstr ""
+"Kim bilir? Projenin karar alma süreci oylama oturumlarıyla sonuçlanacaktır.\n"
+"Yine herkesin (firma çalışanları da dahil) oy hakkı bulunacaktır. Tanglu "
+"tamamen topluluk güdümlüdür. Dolayısıyla zaman zaman sorunlar yaşanacaktır; "
+"fakat tüm bunların çözülebileceğini düşünüyoruz. Topluluk üyesi olan ya da "
+"olmayan herkesi ciddiye alacağız ve herkes için uygun bir çözüm bulmaya "
+"çalışacağız."
+
+#: root/src/faq/index.tt2:42
+msgid ""
+"Why don’t you contribute to Debian directly and create yet another "
+"distribution?"
+msgstr ""
+"Niçin Debian'a katkı vermiyor da başka bir dağıtım daha çıkarıyorsunuz?"
+
+#: root/src/header.tt2:122
+msgid "Wiki"
+msgstr "Viki"
+
+#: root/src/faq/index.tt2:22
+msgid "Will firmware be available on CDs?"
+msgstr "CD'lerde firmware bulunacak mı?"
+
+#: root/src/faq/index.tt2:32
+msgid "Will you have a default desktop environment?"
+msgstr "Öntanımlı bir masaüstü ortamı olacak mı?"
+
+#: root/src/contribute/index.tt2:28
+msgid "With donations."
+msgstr "Bağış yaparak."
+
+#: root/src/contribute/index.tt2:20
+msgid "With servers."
+msgstr "Sunucu sağlayarak."
+
+#: root/src/contribute/index.tt2:6
+msgid "With time."
+msgstr "Zaman harcayarak."
+
+#: root/src/faq/index.tt2:50
+msgid ""
+"Yes and no, yes because we need money to rent our servers and stuff, and no "
+"by there is no company dictating the flow of the project. We believe in "
+"meritocracy, if some company decides to put lots of developers to work with "
+"us it's natural that they will be able to control what they are helping, the "
+"same way a developer that maintains a few packages will have the right to "
+"decide what is best for those."
+msgstr ""
+"Evet ve hayır. Evet; çünkü sunucularımızı ve araçlarımızı kiralamak için "
+"paraya ihtiyacımız var. Hayır; çünkü projenin gidişatını yönlendiren herhangi "
+"bir firma yok. Meritokrasiye inanıyoruz. Eğer bir firma bizimle çalışacak "
+"birçok geliştirici koymaya karar verirse yardım ettikleri noktaları kontrol "
+"etmeleri normaldir. Aynı şekilde birkaç paketin bakımını yapan bir "
+"geliştirici de o paketler hakkında en iyisine karar verme hakkına sahiptir."
+
+#: root/src/faq/index.tt2:23
+msgid ""
+"Yes, it's very frustrating for the average user to try\n"
+"on their own to install firmware, especially when it's preventing\n"
+"them from getting online. We will include firmware even if\n"
+"it isn't open source. But except for the firmware, there will be no "
+"proprietary modules in the distribution. We will also only include firmware "
+"which is part of upstream Linux."
+msgstr ""
+"Evet, ortalama kullanıcının firmware kurulumunu kendisi yapması siniz "
+"bozucu.\n"
+"Özellikle online olarak bunu yapmasını da engelliyorsa. Açık kodlu olmasa "
+"bile\n"
+"firmware içereceğiz. Bu yalnızca firmware için geçerlidir. Dağıtımda herhangi "
+"bir sahipli modül yer almayacaktır. Ayrıca sadece Linux projesinin parçası "
+"olan firmware dosyalarını içereceğiz."
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
+#: root/src/index.tt2:12
+msgid "You can also subscribe to one of our %1mailinglists%2."
+msgstr "%1Eposta listelerimizden%2 birine üye de olabilirsiniz."
+
+#: root/src/contribute/index.tt2:3
+msgid "You can contribute on the following ways:"
+msgstr "Aşağıdaki yöntemlerle katkıda bulunabilirsiniz:"
+
+#. ([ '<a href="http://wiki.debian.org/DEX">', '</a>' ])
+#: root/src/faq/index.tt2:44
+msgid ""
+"You might ask why we have to create a new distribution for that, instead of "
+"creating improvements inside Debian? Creating a new distribution allows us to "
+"do stuff we can never do in Debian, for example including more firmware by "
+"default and having a time-based release cycle. These are already things which "
+"are a no-go for Debian, and that’s fine. We don’t want Debian to support "
+"these cases, as it is already a great distribution. We want to offer a distro "
+"as close to Debian as possible, but with a few modifications for use-cases "
+"which are not covered by Debian itself, and by doing that add value to the "
+"Debian ecosystem. Of course we will participate in the %1DEX%2 project and "
+"work closely with Debian."
+msgstr ""
+"Debian içinde geliştirme yapmaktansa bunun için neden yeni bir dağıtım yapmak "
+"zorunda olduğumuzu sorabilirsiniz. Yeni bir dağıtım oluşturmak Debian içinde "
+"kesinlikle yapamayacağımız şeyleri yapmamıza izin veriyor. Örneğin öntanımlı "
+"olarak firmware içermek ve zaman tabanlı sürüm devrelerine sahip olmak gibi. "
+"Bunlar zaten Debian için olması düşünülmeyen şeyler ve bu durumda sorun yok. "
+"Zaten harika bir dağıtım ve bu tür senaryoları desteklemesini istemiyoruz. "
+"Olabildiğince Debian'a yakın; fakat ufak değişikliklerle bu senaryoları da "
+"kapsayan ve bunu yaparken Debian ekosistemine değer katan bir dağıtım sunmak "
+"istiyoruz. Elbette %1DEX%2 projesine katılacağız ve Debian ile yakın bir "
+"şekilde çalışacağız."
+
