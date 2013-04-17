@@ -116,8 +116,12 @@
                                         </li>
                                         <li><a href="[% c.uri_for('/set_lang',{lang=>'nl', redir=>redir}) %]">[% l("Dutch") %]
                                             [% IF c.languages.0 != 'it' -%](Nederlands)[% END -%]</a>
+                                        </li>
                                         <li><a href="[% c.uri_for('/set_lang',{lang=>'tr', redir=>redir}) %]">[% l("Turkish") %]
                                             [% IF c.languages.0 != 'tr' -%](Türkçe)[% END -%]</a>
+                                        </li>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'ru', redir=>redir}) %]">[% l("Russian") %]
+                                            [% IF c.languages.0 != 'ru' -%](русский)[% END -%]</a>
                                         </li>
                                         </ul>
                                     </li>
