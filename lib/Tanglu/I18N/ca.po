@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2013-03-27 00:34-0400\n"
+"PO-Revision-Date: 2013-04-02 09:25-0400\n"
 "Last-Translator: Salva Ardid <jsardid@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -20,7 +20,8 @@ msgstr ""
 msgid ""
 "A new GNU/Linux distribution based on Debian, designed for human beings."
 msgstr ""
-"Una nova distribució GNU/Linux basada en Debian, dissenyada per a éssers humans."
+"Una nova distribució GNU/Linux basada en Debian, dissenyada per a éssers "
+"humans."
 
 #: root/src/contribute/index.tt2:24
 msgid ""
@@ -35,17 +36,17 @@ msgid ""
 "As soon as the project has the minimum required to start running we will be "
 "accepting donations."
 msgstr ""
-"Tan aviat com el projecte tingui el mínim requerit per engegar "
-"acceptarem donacions."
+"Tan aviat com el projecte tingui el mínim requerit per engegar acceptarem "
+"donacions."
 
 #: root/src/faq/index.tt2:13
 msgid "Available domains (.org .net)"
-msgstr "Dominis disponibles (.org .net)"
+msgstr "Que hi hagi dominis disponibles (.org .net)"
 
 #. ([ aHref, '</a>' ])
 #: root/src/download/index.tt2:6
 msgid "But wait! You can help, check it out the %1contribute section%2!"
-msgstr "Però espera! Pots ajudar, mira la %1secció contribueix%2!"
+msgstr "Però espera! Pots ajudar-nos, mira la %1secció contribueix%2!"
 
 #: root/src/contribute/index.tt2:32
 msgid "Companies will also be able to sponsor the project."
@@ -57,7 +58,7 @@ msgstr "Contribueix"
 
 #: root/src/contribute/index.tt2:11
 msgid "Designing wallpapers, bootup logos, this website."
-msgstr "Dissenyant fons d'escriptori, logos d'arrencada, aquest lloc web."
+msgstr "Dissenyant fons d'escriptori, logos d'arrencada, o aquest lloc web."
 
 #: root/src/contribute/index.tt2:29
 msgid "Do you like the project but don't have time to contribute back?"
@@ -72,8 +73,8 @@ msgid ""
 "Documenting procedures on the wiki, including screenshots if it makes for "
 "easier understanding"
 msgstr ""
-"Documentant procediments en la wiki, incloent captures de pantalla si "
-"faciliten la comprensió"
+"Documentant procediments a la wiki, incloent captures de pantalla si "
+"faciliten la seva comprensió"
 
 #: root/src/contribute/index.tt2:13
 msgid "Ensuring documentation on our website doesn't get out of date."
@@ -85,7 +86,8 @@ msgstr "Preguntes més freqüents"
 
 #: root/src/faq/index.tt2:9
 msgid "Finding a catchy name is by no means an easy job, our criteria was:"
-msgstr "Trobar un nom atractiu no és pas una cosa fàcil, el nostre criteri ha estat:"
+msgstr ""
+"Trobar un nom atractiu no és pas una cosa fàcil, el nostre criteri ha estat:"
 
 #: root/src/faq/index.tt2:18
 msgid ""
@@ -95,7 +97,8 @@ msgid ""
 msgstr ""
 "Per ara està planejat que farem dos llançaments a l'any.\n"
 "però encara no està totalment decidit.\n"
-"Ara mateix estem treballant en la configuració els servidors per començar a compilar programari"
+"Ara mateix estem treballant en la configuració dels servidors per començar a "
+"compilar programari."
 
 #: root/src/header.tt2:80
 msgid "Get it"
@@ -103,11 +106,11 @@ msgstr "Agafa'l"
 
 #: root/src/contribute/index.tt2:17
 msgid "Help creating packages."
-msgstr "Ajuda creant paquets."
+msgstr "Ajudant a crear paquets."
 
 #: root/src/contribute/index.tt2:16
 msgid "Help with website and infrastructure administration."
-msgstr "Ajuda amb el lloc web i l'administració de la infraestructura."
+msgstr "Ajudant amb el lloc web i l'administració de la seva infraestructura."
 
 #: root/src/header.tt2:77
 msgid "Home"
@@ -126,17 +129,17 @@ msgid ""
 "If you have a server which just idles at time, we would happily use it as "
 "buildd for package building."
 msgstr ""
-"Si tens un servidor que està de tant en tant desocupat, nosaltres estaríem ben contents de fer-lo servir com a "
-"buildd per construir paquets."
+"Si tens un servidor que està de tant en tant desocupat, nosaltres estaríem "
+"ben contents de fer-lo servir com a buildd per construir paquets."
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/index.tt2:11
 msgid "If you want to get in contact, check out %1 on Freenode."
-msgstr "Si vols estar contactar amb nosaltres, mira %1 en Freenode."
+msgstr "Si vols contactar amb nosaltres, mira %1 en Freenode."
 
 #: root/src/contribute/index.tt2:25
 msgid "If you want, you could also provide an archive mirror."
-msgstr "Si vols, també pots oferir mirror (rèplica) d'arxius."
+msgstr "Si vols, també pots oferir un servidor com a replica d'arxius."
 
 #: root/src/faq/index.tt2:52
 msgid "In case of disagreement will you start another project?"
@@ -148,7 +151,9 @@ msgstr "Hi ha cap empresa al darrere d'aquest sistema operatiu?"
 
 #: root/src/faq/index.tt2:28
 msgid "It's based on Debian, will it have long feature freezes?"
-msgstr "Està basat en Debian, tindrà llargs períodes de congelació de característiques?"
+msgstr ""
+"Està basat en Debian, tindrà llargs períodes de congelació de "
+"característiques?"
 
 #: root/src/index.tt2:6
 msgid "Made for YOU!"
@@ -156,7 +161,8 @@ msgstr "Fet per TU!"
 
 #: root/src/faq/index.tt2:11
 msgid "Needs to be easy to remember, maybe an unique name used nowhere else"
-msgstr "Ha de ser fàcil de recordar, potser un nom singular no utilitzat enlloc"
+msgstr ""
+"Ha de ser fàcil de recordar, potser un nom singular no utilitzat enlloc"
 
 #: root/src/faq/index.tt2:12
 msgid "Nice sounding in English, German and Brazilian portuguese"
@@ -170,16 +176,17 @@ msgid ""
 "which desktop to choose on the Tanglu download page."
 msgstr ""
 "No, tots els escriptoris principals es suportaran.\n"
-"A més a més, oferirem captures de pantalla i una petita taula de característiques per ajudar l'usuari a "
-"decidir\n"
-"quin escriptori triar en la pàgina de descarregues de Tanglu."
+"A més a més, oferirem captures de pantalla i una petita taula de "
+"característiques per ajudar l'usuari a decidir\n"
+"quin escriptori triar en la pàgina de descàrregues de Tanglu."
 
 #: root/src/faq/index.tt2:29
 msgid ""
 "No, we are setting up our own software archive so our users get\n"
 "the lastest software that we believe is stable enough."
 msgstr ""
-"No, estem preparant el nostre propi arxiu de programari perquè els nostres usuaris tinguin\n"
+"No, estem preparant el nostre propi arxiu de programari perquè els nostres "
+"usuaris tinguin\n"
 "el programari més recent que  és també al nostre parer el suficientment "
 "estable."
 
@@ -194,8 +201,8 @@ msgid ""
 "developed for Tanglu will be available for other distributions too."
 msgstr ""
 "No, volem que l'usuari trobi l'aspecte buscat\n"
-"pel desenvolupador del programari original. Si pensem que els desenvolupadors no estan fent un "
-"bon\n"
+"pel desenvolupador del programari original. Si pensem que els desenvolupadors "
+"no estan fent un bon\n"
 "treball, parlarem amb ells abans per trobar una solució que funcione per a "
 "tots. En l'estrany cas que això no funcionés, podríem decidir utilitzar un "
 "programari diferent. Volem evitar solucions caseres, i tot el que sigui "
@@ -208,7 +215,8 @@ msgstr "Aix! La pàgina que busques no s'ha trobat."
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
 #: root/src/contribute/index.tt2:37
 msgid "Or you can also subscribe to our %1development mailinglist%2."
-msgstr "O també pots subscriure't a la nostra %1llista de correu de desenvolupament%2."
+msgstr ""
+"O també pots subscriure't a la nostra %1llista de correu de desenvolupament%2."
 
 #: root/src/header.tt2:89
 msgid "Planet"
@@ -216,7 +224,7 @@ msgstr "Planeta"
 
 #: root/src/contribute/index.tt2:12
 msgid "Promoting our project by writing articles about it."
-msgstr "Promocionant el nostre projecte escrivint articles sobre ell."
+msgstr "Escrivint articles que promocionen el nostre projecte."
 
 #. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
 #: root/src/index.tt2:9
@@ -229,7 +237,7 @@ msgstr "Cerca"
 
 #: root/src/download/index.tt2:3
 msgid "Sorry! We are still in the womb, yet to be born :D"
-msgstr "Disculpa! Encara estem dins la matriu, quasi apunt per néixer :D"
+msgstr "Disculpa! Encara estem a la matriu, quasi apunt per néixer :D"
 
 #: root/src/faq/index.tt2:5
 msgid ""
@@ -258,15 +266,16 @@ msgstr ""
 "Tanglu no és un projecte 'oficial' Debian, tot i que s'ha iniciat juntament "
 "amb alguns desenvolupadors Debian. Creiem que Tanglu també pot ajudar Debian: "
 "sincronitzarem els permisos de tots els desenvolupadors Debian perquè puguen "
-"mantenir els seus paquets en Tanglu durant el període de blocatge Debian, si així ho "
-"troben oportú, de manera que Tanglu i els seus usuaris tindran el maquinari més recent, mentre Debian "
-"podrà començar el cicle d'un nou llançament amb paquets ja provats a Tanglu. "
-"Creiem que açò augmentarà la qualitat dels paquets i resultarà en un començament "
-"menys aspre en el desenvolupament Debian passat el blocatge. Tanmateix, "
-"Tanglu no és una distribució experimental Debian o un pati per programari no provat. "
-"Tot en Tanglu ha de ser utilitzable pels seus usuaris i ser programari "
-"prèviament alliberat. Estem en contacte amb Debian i tractem de mantenir la distància entre"
-"Tanglu i Debian el més petita possible, per no introduir"
+"mantenir els seus paquets en Tanglu durant el període de blocatge Debian, si "
+"així ho troben oportú, de manera que Tanglu i els seus usuaris tindran el "
+"maquinari més recent, mentre Debian podrà començar el cicle d'un nou "
+"llançament amb paquets ja provats a Tanglu. Creiem que açò augmentarà la "
+"qualitat dels paquets i resultarà en un començament menys aspre en el "
+"desenvolupament Debian passat el blocatge. Tanmateix, Tanglu no és una "
+"distribució experimental Debian o un pati per programari no provat. Tot en "
+"Tanglu ha de ser utilitzable pels seus usuaris i ser programari prèviament "
+"alliberat. Estem en contacte amb Debian i tractem de mantenir la distància "
+"entre Tanglu i Debian el més petita possible, per no introduir "
 "incompatibilitats."
 
 #: root/src/contribute/index.tt2:14
@@ -274,8 +283,8 @@ msgid ""
 "Testing the software and be willing to help out on further tests to ensure "
 "we can fix the issues."
 msgstr ""
-"Provant el programari i estant disposat a ajudar en més proves per assegurar "
-"que podrem resoldre els problemes."
+"Provant el programari i si hi ha problemes, estant disposat a ajudar-nos en "
+"més proves per tal d'assegurar que els puguem resoldre."
 
 #: root/src/header.tt2:5
 msgid "The Tanglu Open Project"
@@ -294,8 +303,8 @@ msgid ""
 "Time is the most expensive resource, if you are talented and have time to "
 "help out, here is a list of what we need:"
 msgstr ""
-"El temps és el recurs més car, si tens temps i talent per "
-"ajudar, aquesta és la llista del que necessitem:"
+"El temps és el recurs més car, si tens temps i talent, així és com ens pots "
+"ajudar:"
 
 #. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
 #: root/src/contribute/index.tt2:36
@@ -304,7 +313,9 @@ msgstr "Para contactar amb nosaltres, pega una ullada a %1 en Freenode."
 
 #: root/src/contribute/index.tt2:10
 msgid "Translating this site, software, manuals or upstream projects."
-msgstr "Traduint aquest lloc, el programari, els manuals, o projectes que fem servir."
+msgstr ""
+"Traduint aquest lloc, el programari, els manuals, o els projectes que fem "
+"servir."
 
 #: root/src/faq/index.tt2:43
 msgid ""
@@ -315,12 +326,14 @@ msgid ""
 "which provides a Debian experience for desktop users, Linux newbies and "
 "users who want up-to-date software and no rolling release."
 msgstr ""
-"Contribuïm a Debian. El tema és que Debian no pot cobrir tots "
-"els casos d'ús possibles, por exemple per a persones que volen utilitzar "
-"programari més recent, els períodes de blocatge a Debian són molests. En canvi, aquests són un gran "
-"avantatge si vols utilitzar Debian com un sistema operatiu de servidor. Amb Tanglu volem "
-"construir una distribució que proporcione una experiència Debian per a usuaris d'escriptori, "
-"principiants a Linux i usuaris que volen programari actualitzat sense tenir un rolling release (llançament continu)."
+"Contribuïm a Debian. El tema és que Debian no pot cobrir tots els casos d'ús "
+"possibles, por exemple per a persones que volen utilitzar programari més "
+"recent, els períodes de blocatge a Debian són molests. En canvi, aquests són "
+"un gran avantatge si vols utilitzar Debian com un sistema operatiu a un "
+"servidor. Amb Tanglu volem construir una distribució que proporcione una "
+"experiència Debian per a usuaris d'escriptori, tan per a principiants a Linux "
+"com per a usuaris que volen programari actualitzat sense tenir un rolling "
+"release (llançament continu)."
 
 #: root/src/contribute/index.tt2:21
 msgid ""
@@ -329,9 +342,10 @@ msgid ""
 "infrastructure to generate diffs for merging changes and for building "
 "packages."
 msgstr ""
-"Necessitem molta infraestructura, ja que no som una distribució rolling-release"
-"i hem de proporcionar una còpia de l'arxiu complet Debian, així com la infraestructura "
-"requerida per generar diffs en mesclar canvis i per construir paquets."
+"Necessitem molta infraestructura, ja que no som una distribució "
+"rolling-release i hem de proporcionar una còpia de l'arxiu complet Debian, "
+"així com la infraestructura requerida per construir paquets i per generar "
+"diffs en combinar canvis."
 
 #: root/src/faq/index.tt2:8
 msgid "What does the name \"Tanglu\" mean?"
@@ -350,12 +364,14 @@ msgid ""
 "that these can all be solved. We take every community-member and not-member "
 "serious and try to find a solution which works for most people."
 msgstr ""
-"Qui sap? La pressa de decisions d'aquest projecte es\n"
-"determinarà en sessions de votació, així tots els involucrats (incloent els treballadors\n"
-"d'una empresa) tindran dret a vot. Tanglu és totalment impulsat por la comunitat, "
-"és d'esperar que hi haurà problemes de tant en tant, però creiem que"
-"aquests poden tots ser resolts. Prenem en seriosa consideració tant als membres com als no membres "
-"de la comunitat i tractem de trobar una solució que funcione per a la major part de la gent."
+"Qui sap. La pressa de decisions d'aquest projecte es\n"
+"determinarà en sessions de votació, així tots els involucrats (incloent els "
+"treballadors\n"
+"d'una empresa) tindran dret a vot. Tanglu és totalment impulsat por la "
+"comunitat, és d'esperar que hi haurà problemes de tant en tant, però creiem "
+"que aquests poden tots ser resolts. Prenem en seriosa consideració tant als "
+"membres com als no membres de la comunitat i tractem de trobar una solució "
+"que funcione per a la major part de la gent."
 
 #: root/src/faq/index.tt2:42
 msgid ""
@@ -398,12 +414,13 @@ msgid ""
 "same way a developer that maintains a few packages will have the right to "
 "decide what is best for those."
 msgstr ""
-"Sí i no, sí, perquè necessitem diners per llogar els nostres servidors i demés, i no, "
-"ja que no hi ha cap empresa que dictamine la direcció del projecte. Creiem en la"
-"meritocràcia, si alguna empresa decideix posar molts desenvolupadors a treballar amb"
-"nosaltres, és natural que siguen capaces de controlar allò en que estan ajudant, de la"
-"mateixa manera un desenvolupador que manté alguns paquets tindrà el dret de "
-"decidir què és el millor per a ells."
+"Sí i no, sí, perquè necessitem diners per llogar els nostres servidors i "
+"demés, i no, ja que no hi ha cap empresa que dictamine la direcció del "
+"projecte. Creiem en la meritocràcia, si alguna empresa decideix posar molts "
+"desenvolupadors a treballar amb nosaltres, és natural que siguen capaces de "
+"controlar allò en que estan ajudant, de la mateixa manera que un "
+"desenvolupador que manté alguns paquets tindrà el dret de decidir què és el "
+"millor per a ells."
 
 #: root/src/faq/index.tt2:23
 msgid ""
@@ -417,9 +434,9 @@ msgstr ""
 "Sí, és molt frustrant per a l'usuari mig intentar\n"
 "instal·lar firmware pel seu compte, especialment quan aquest impedeix\n"
 "estar en línia. Inclourem firmware encara que\n"
-"no sigui de codi obert. Però excepte el firmware, no hi haurà"
-"mòduls propietaris en la distribució. Sols inclourem el firmware "
-"que sigui part de Linux."
+"no sigui de codi obert. Però excepte el firmware, no hi haurà mòduls "
+"propietaris en la distribució. Sols inclourem el firmware que sigui part de "
+"Linux."
 
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
 #: root/src/index.tt2:12
@@ -445,14 +462,13 @@ msgid ""
 "project and work closely with Debian."
 msgstr ""
 "Es podeu preguntar, com és que hem de crear una nova distribució, en lloc "
-"d'introduir millores a Debian? Crear una nova distribució ens permet "
-"fer coses que mai es podrien fer a Debian, per exemple incloure més firmware "
-"per defecte i tenir un cicle de llançament basat en temps. Aquestes són ja coses "
+"d'introduir millores a Debian? Crear una nova distribució ens permet fer "
+"coses que mai es podrien fer a Debian, per exemple incloure més firmware per "
+"defecte i tenir un cicle de llançament basat en temps. Aquestes són ja coses "
 "que són impossibles a Debian, i està bé que sigui així. No busquem que Debian "
-"done suport a aquests casos, ja que és ja una gran distribució. Però volem oferir "
-"una distro tan pròxima a Debian como sigui possible, amb algunes modificacions per "
-"casos d'ús que no estan coberts a Debian, i en fer això agregar valor al "
-"ecosistema Debian. Per suposat participarem en el projecte %1DEX%2 i"
-"treballarem en estreta col·laboració amb Debian."
-
+"done suport a aquests casos, ja que és ja una gran distribució. Però volem "
+"oferir una distro tan pròxima a Debian como sigui possible, amb algunes "
+"modificacions per casos d'ús que no estan coberts a Debian, i en fer això "
+"agregar valor a l'ecosistema Debian. Per suposat participarem en el projecte %"
+"1DEX%2 i treballarem en estreta col·laboració amb Debian."
 
