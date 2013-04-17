@@ -99,8 +99,8 @@
                                         <li><a href="[% c.uri_for('/set_lang',{lang=>'pt-br', redir=>redir}) %]">[% l("Brazilian Portuguese") %]
                                             [% IF c.languages.0 != 'pt-br' -%](Português do Brasil)[% END -%]</a>
                                         </li>
-                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'de-de', redir=>redir}) %]">[% l("German") %]
-                                            [% IF c.languages.0 != 'de-de' -%](Deutsch)[% END -%]</a>
+                                        <li><a href="[% c.uri_for('/set_lang',{lang=>'de', redir=>redir}) %]">[% l("German") %]
+                                            [% IF c.languages.0 != 'de' -%](Deutsch)[% END -%]</a>
                                         </li>
                                         <li><a href="[% c.uri_for('/set_lang',{lang=>'es', redir=>redir}) %]">[% l("Spanish") %]
                                             [% IF c.languages.0 != 'es' -%](Español)[% END -%]</a>
