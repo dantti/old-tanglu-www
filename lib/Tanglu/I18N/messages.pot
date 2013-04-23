@@ -68,6 +68,10 @@ msgstr ""
 msgid "Documenting procedures on the wiki, including screenshots if it makes for easier understanding"
 msgstr ""
 
+#: root/src/header.tt2:117
+msgid "Dutch"
+msgstr ""
+
 #: root/src/header.tt2:96
 msgid "English"
 msgstr ""
@@ -123,9 +127,9 @@ msgstr ""
 msgid "If you have a server which just idles at time, we would happily use it as buildd for package building."
 msgstr ""
 
-#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#. ([ '<a href="http://webchat.freenode.net/?channels=tanglu">#tanglu</a>', '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>' ])
 #: root/src/index.tt2:11
-msgid "If you want to get in contact, check out %1 on Freenode."
+msgid "If you want to get in contact, check out ther user's channel %1 on Freenode (discussion about Tanglu development is happening at %2)."
 msgstr ""
 
 #: root/src/contribute/index.tt2:25
@@ -197,6 +201,10 @@ msgstr ""
 msgid "Planet"
 msgstr ""
 
+#: root/src/header.tt2:114
+msgid "Polish"
+msgstr ""
+
 #: root/src/contribute/index.tt2:12
 msgid "Promoting our project by writing articles about it."
 msgstr ""
@@ -206,7 +214,11 @@ msgstr ""
 msgid "Read the %1initial announcement%2."
 msgstr ""
 
-#: root/src/header.tt2:118
+#: root/src/header.tt2:123
+msgid "Russian"
+msgstr ""
+
+#: root/src/header.tt2:130
 msgid "Search"
 msgstr ""
 
@@ -253,6 +265,10 @@ msgstr ""
 msgid "Translating this site, software, manuals or upstream projects."
 msgstr ""
 
+#: root/src/header.tt2:120
+msgid "Turkish"
+msgstr ""
+
 #: root/src/faq/index.tt2:43
 msgid "We do contribute to Debian. The point is that Debian can not cover all possible use-cases, for example for people who want to use newer software, Debian freezes are annoying. But the freezes are a big strength if you want to use Debian as server OS. With Tanglu we want to build a distribution which provides a Debian experience for desktop users, Linux newbies and users who want up-to-date software and no rolling release."
 msgstr ""
@@ -280,7 +296,7 @@ msgstr ""
 msgid "Why don’t you contribute to Debian directly and create yet another distribution?"
 msgstr ""
 
-#: root/src/header.tt2:122
+#: root/src/header.tt2:134
 msgid "Wiki"
 msgstr ""
 
@@ -318,7 +334,7 @@ msgstr ""
 
 #. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
 #: root/src/index.tt2:12
-msgid "You can also subscribe to one of our %1mailinglists%2."
+msgid "You can also subscribe to one of our %1mailinglists%2, bigger announcements will be posted to the low-volume tanglu-announce mailinglist."
 msgstr ""
 
 #: root/src/contribute/index.tt2:3
