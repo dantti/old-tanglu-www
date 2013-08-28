@@ -1,0 +1,458 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Howard Chan <smartboyhw@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-08-28 23:10+0800\n"
+"Last-Translator: Howard Chan <smartboyhw@gmail.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: root/src/index.tt2:8
+msgid ""
+"A new GNU/Linux distribution based on Debian, designed for human beings."
+msgstr "一個建基於Debian的新GNU/Linux發行版本，爲人類而設計。"
+
+#: root/src/contribute/index.tt2:24
+msgid ""
+"Also, other services like the package queue, bugtracker, merge system etc. "
+"need capacity."
+msgstr "同時，其他服務例如套件隊伍，臭蟲追縱網，合併系統等等需要容量。"
+
+#: root/src/contribute/index.tt2:31
+msgid ""
+"As soon as the project has the minimum required to start running we will be "
+"accepting donations."
+msgstr "當本計劃達到了開始營運的基本要求我們就會接受捐獻。"
+
+#: root/src/faq/index.tt2:13
+msgid "Available domains (.org .net)"
+msgstr "可用網域（.org .net）"
+
+#: root/src/header.tt2:99
+msgid "Brazilian Portuguese"
+msgstr "巴西式葡萄牙文"
+
+#. ([ aHref, '</a>' ])
+#: root/src/download/index.tt2:6
+msgid "But wait! You can help, check it out the %1contribute section%2!"
+msgstr "但等一下！您可以幫忙，去%1貢獻部分%2看一下！"
+
+#: root/src/header.tt2:108
+msgid "Catalan"
+msgstr "加泰羅尼亞文"
+
+#: root/src/contribute/index.tt2:32
+msgid "Companies will also be able to sponsor the project."
+msgstr "公司也會能夠資助本計劃。"
+
+#: root/src/header.tt2:83
+msgid "Contribute"
+msgstr "貢獻"
+
+#: root/src/contribute/index.tt2:11
+msgid "Designing wallpapers, bootup logos, this website."
+msgstr "設計壁紙，開機圖案，本網站。"
+
+#: root/src/contribute/index.tt2:29
+msgid "Do you like the project but don't have time to contribute back?"
+msgstr "您喜歡本計劃但沒有時間貢獻嗎？"
+
+#: root/src/faq/index.tt2:37
+msgid "Do you plan to heavily modify the software you ship?"
+msgstr "您計劃大幅度更改您推出的軟件嗎？"
+
+#: root/src/contribute/index.tt2:15
+msgid ""
+"Documenting procedures on the wiki, including screenshots if it makes for "
+"easier understanding"
+msgstr "於維基裏編寫程序，如果能讓它更容易明白的話包括截圖。"
+
+#: root/src/header.tt2:117
+msgid "Dutch"
+msgstr "荷蘭文"
+
+#: root/src/header.tt2:96
+msgid "English"
+msgstr "英文"
+
+#: root/src/contribute/index.tt2:13
+msgid "Ensuring documentation on our website doesn't get out of date."
+msgstr "確保我們網站的文件不會過時。"
+
+#: root/src/header.tt2:86
+msgid "FAQ"
+msgstr "問與答"
+
+#: root/src/faq/index.tt2:9
+msgid "Finding a catchy name is by no means an easy job, our criteria was:"
+msgstr "尋找一個噹響的名字不是一個簡單的工作，我們的條件是："
+
+#: root/src/faq/index.tt2:18
+msgid ""
+"For now it is planned that we will release 2 times a year,\n"
+"but this isn't written in stone yet.\n"
+"Right now we are working on configuring servers to start building software"
+msgstr ""
+"現在我們正計劃每年發行兩次，\n"
+"但我們還沒有下決定。\n"
+"當下我們正努力設定伺服器以開始建構軟件。"
+
+#: root/src/header.tt2:102
+msgid "German"
+msgstr "德文"
+
+#: root/src/header.tt2:80
+msgid "Get it"
+msgstr "得到它"
+
+#: root/src/contribute/index.tt2:17
+msgid "Help creating packages."
+msgstr "幫忙創造套件。"
+
+#: root/src/contribute/index.tt2:16
+msgid "Help with website and infrastructure administration."
+msgstr "在網站和架構上幫忙。"
+
+#: root/src/header.tt2:77
+msgid "Home"
+msgstr "首頁"
+
+#: root/src/faq/index.tt2:46
+msgid "How is the relation to Debian?"
+msgstr "與Debian的關係怎麼樣？"
+
+#: root/src/faq/index.tt2:17
+msgid "How often and when will it be released?"
+msgstr "它會幾頻密和幾時發行？"
+
+#: root/src/contribute/index.tt2:23
+msgid ""
+"If you have a server which just idles at time, we would happily use it as "
+"buildd for package building."
+msgstr "如果您有一個某些時候空置的伺服器，我們會希望能用它作爲套件建造的建造平臺。"
+
+#. ([ '<a href="http://webchat.freenode.net/?channels=tanglu">#tanglu</a>', '<a href="http://webchat.freenode.net/?channels=tanglu-devel">#tanglu-devel</a>' ])
+#: root/src/index.tt2:11
+msgid ""
+"If you want to get in contact, check out ther user's channel %1 on Freenode "
+"(discussion about Tanglu development is happening at %2)."
+msgstr "如果您想聯繫我們，去Freenode裏的用戶頻道%1（關於Tanglu開發的討論正在%2裏發生）"
+
+#: root/src/contribute/index.tt2:25
+msgid "If you want, you could also provide an archive mirror."
+msgstr "如果您希望的話，您也可以提供一個存檔平臺。"
+
+#: root/src/faq/index.tt2:52
+msgid "In case of disagreement will you start another project?"
+msgstr "如果有異議你會起動另一個計劃嗎？"
+
+#: root/src/faq/index.tt2:49
+msgid "Is there a company behind this operating system?"
+msgstr "這作業系統有沒有公司支援？"
+
+#: root/src/faq/index.tt2:28
+msgid "It's based on Debian, will it have long feature freezes?"
+msgstr "它會建基於Debian, 它會有長功能凍結期嗎？"
+
+#: root/src/header.tt2:111
+msgid "Italian"
+msgstr "意大利文"
+
+#: root/src/header.tt2:94
+msgid "Languages"
+msgstr "語言"
+
+#: root/src/index.tt2:6
+msgid "Made for YOU!"
+msgstr "爲您創造！"
+
+#: root/src/faq/index.tt2:11
+msgid "Needs to be easy to remember, maybe an unique name used nowhere else"
+msgstr "一定要容易記得，可能是一個沒有在其他地方使用的獨特名稱"
+
+#: root/src/faq/index.tt2:12
+msgid "Nice sounding in English, German and Brazilian portuguese"
+msgstr "於英語，德語和巴西式葡萄牙語中聽上去挺好的"
+
+#: root/src/faq/index.tt2:33
+msgid ""
+"No, all major desktops will be supported.\n"
+"We will provide screenshots and a small feature table to help the user to "
+"decide\n"
+"which desktop to choose on the Tanglu download page."
+msgstr ""
+"不，所有主要桌面會被支援。\n"
+"我們會於Tanglu下載網站提供截圖和一個小功能表幫助用戶決定\n"
+"選擇哪一個桌面。"
+
+#: root/src/faq/index.tt2:29
+msgid ""
+"No, we are setting up our own software archive so our users get\n"
+"the lastest software that we believe is stable enough."
+msgstr ""
+"不是，我們正設立我們自己的軟件存檔使我們的用家可以得到\n"
+"我們相信是夠穩定的最新軟件。"
+
+#: root/src/faq/index.tt2:38
+msgid ""
+"No, we want the user to have the look and feel intended\n"
+"by the original software developer. If we believe upstream isn't doing a "
+"good\n"
+"job we will talk to upstream first to find a solution which works for "
+"everyone. If this will not work in rare cases, we may decide to use a "
+"different upstream. We want to avoid in-house solutions, and everything "
+"developed for Tanglu will be available for other distributions too."
+msgstr ""
+"不，我們希望用戶能有原本的軟件開發者\n"
+"盼望的外表和感覺。如果我們認爲上游沒做好\n"
+"我們會與上游傾談去達成一個符合所有人的解決方案。在稀有的情況下如果不行的話，我們可以決定使用另外一個上游。我們想要避免內部方案，而所有爲Tanglu開發的東"
+"西也會從其他發行版本得到。"
+
+#: root/src/404.tt2:2
+msgid "Oops! The page you was looking for was not found."
+msgstr "糟糕！您所尋找的頁面不能找到。"
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo/tanglu-devel">', '</a>' ])
+#: root/src/contribute/index.tt2:37
+msgid "Or you can also subscribe to our %1development mailinglist%2."
+msgstr "或者您也可以訂閱我們的%1開發郵件列表%2。"
+
+#: root/src/header.tt2:89
+msgid "Planet"
+msgstr "星球"
+
+#: root/src/header.tt2:114
+msgid "Polish"
+msgstr "波蘭文"
+
+#: root/src/contribute/index.tt2:12
+msgid "Promoting our project by writing articles about it."
+msgstr "寫關於本計劃的文章以推廣它。"
+
+#. ([ '<a href="http://blog.tenstral.net/2013/03/tanglu.html">', '</a>' ])
+#: root/src/index.tt2:9
+msgid "Read the %1initial announcement%2."
+msgstr "閱讀%1最初的公告%2。"
+
+#: root/src/header.tt2:123
+msgid "Russian"
+msgstr "俄羅斯文"
+
+#: root/src/header.tt2:130
+msgid "Search"
+msgstr "搜尋"
+
+#: root/src/download/index.tt2:3
+msgid "Sorry! We are still in the womb, yet to be born :D"
+msgstr "對不起！我們依然在子宮裏，等待出生 ：D"
+
+#: root/src/header.tt2:105
+msgid "Spanish"
+msgstr "西班牙文"
+
+#: root/src/faq/index.tt2:5
+msgid ""
+"Tanglu is a GNU/Linux Operating System, which aims to provide the best\n"
+"desktop experience for regular users and enthusiasts."
+msgstr ""
+"Tanglu是一個GNU/Linux操作系統，目標是爲普通用戶和愛好者提供\n"
+"最佳的桌面體驗。"
+
+#: root/src/faq/index.tt2:47
+msgid ""
+"Tanglu is not an 'offical' Debian project, although it was started together "
+"with some Debian Developers. But we think that Tanglu might help Debian. We "
+"will sync the permissions of all Debian developers, so they can maintain "
+"their packages in Tanglu during a Debian freeze if they want to do that, so "
+"Tanglu and it's users get the latest upstream software, while Debian can "
+"start the new release cycle with already tested packages from Tanglu. We "
+"believe that this will increase the package quality and result in a less "
+"rough start of Debian development after a freeze. However, Tanglu is not a "
+"Debian experimental distribution or playground for untested software. "
+"Everything in Tanglu should be usable for it's users and be released upstream "
+"software. We are in contact with Debian and try to keep the delta between "
+"Tanglu and Debian as low as possible, so we do not introduce "
+"incompatibilities."
+msgstr ""
+"Tanglu不是一個‘官方‘的Debian計劃，雖然它是由幾位Debian開發者起始。但我們認爲Tanglu有可能幫助Debian。我們會同步所有Debia"
+"n開發者的權限，令他們可以於一個Debian凍結期中於Tanglu維持他們的套件，令Tanglu及它的用戶得到最新的上游軟件，同時間Debian可以以從Ta"
+"nglu中已測試的套件開始一個新發行循環。我們相信它會擡高套件質素和令一個凍結期後的Debian開發開始得較爲平穩。不過，Tanglu不是一個Debian實"
+"驗性發行版本或未經測試軟件的遊樂場。所有於Tanglu裏的東西應該是能讓用戶使用和是已發行的上游軟件。我們正與Debian聯繫和嘗試儘量減少Tanglu和D"
+"ebian間的差別，使我們不會產生不相容性。"
+
+#: root/src/contribute/index.tt2:14
+msgid ""
+"Testing the software and be willing to help out on further tests to ensure we "
+"can fix the issues."
+msgstr "測試軟件和願意在未來測試中幫忙以確保我們能夠修理問題。"
+
+#: root/src/header.tt2:5
+msgid "The Tanglu Open Project"
+msgstr "Tanglu 開源碼計劃"
+
+#: root/src/faq/index.tt2:15
+msgid ""
+"The word then evolved out of the words tangerine and iglu (igloo), after "
+"trying a large number of words for days."
+msgstr "該字就在幾天嘗試大量的字後從英文tangerine（橘子）及iglu（冰屋）演變出來。"
+
+#: root/src/contribute/index.tt2:7
+msgid ""
+"Time is the most expensive resource, if you are talented and have time to "
+"help out, here is a list of what we need:"
+msgstr "時間是最寶貴的資源，如果您有天賦和有時間幫忙，這裏是一個我們需要的東西的清單："
+
+#. ("<a href=\"http://webchat.freenode.net/?channels=tanglu-devel\">#tanglu-devel</a>")
+#: root/src/contribute/index.tt2:36
+msgid "To get in touch with us, check out %1 on Freenode."
+msgstr "要跟我們聯繫，去Freenode裏的%1。"
+
+#: root/src/contribute/index.tt2:10
+msgid "Translating this site, software, manuals or upstream projects."
+msgstr "翻譯本網站，軟件，手冊或上游計劃。"
+
+#: root/src/header.tt2:120
+msgid "Turkish"
+msgstr "土耳其文"
+
+#: root/src/faq/index.tt2:43
+msgid ""
+"We do contribute to Debian. The point is that Debian can not cover all "
+"possible use-cases, for example for people who want to use newer software, "
+"Debian freezes are annoying. But the freezes are a big strength if you want "
+"to use Debian as server OS. With Tanglu we want to build a distribution which "
+"provides a Debian experience for desktop users, Linux newbies and users who "
+"want up-to-date software and no rolling release."
+msgstr ""
+"我們也向Debian貢獻。重點是Debian不能覆蓋所有可能的用例，例如對想使用較新的軟件的人來說，Debian凍結期是麻煩的。不過如果您想用Debian爲"
+"伺服器操作系統的話凍結是一個大優點。在Tanglu我們想要建構一個會提供一個爲桌面用家，Linux新手和想要最新的軟件和沒有滾動式發佈的Debian體驗的發"
+"行版本。"
+
+#: root/src/contribute/index.tt2:21
+msgid ""
+"We need lots of infrastructure, since we are no rolling-release distribution "
+"and will have to provide a full Debian archive copy, as well as the required "
+"infrastructure to generate diffs for merging changes and for building "
+"packages."
+msgstr ""
+"我們需要大量的基礎設施，因爲我們不是一個滾動式發行發行版本和要提供一個完整的Debian存檔複製，及必須的基礎設施以產生合併變異的差別和建構套件。"
+
+#: root/src/faq/index.tt2:8
+msgid "What does the name \"Tanglu\" mean?"
+msgstr "“Tanglu“ 這個名稱是甚麼意思？"
+
+#: root/src/faq/index.tt2:4
+msgid "What is Tanglu?"
+msgstr "Tanglu是甚麼？"
+
+#: root/src/faq/index.tt2:53
+msgid ""
+"Who knows? The decision making process of this project will\n"
+"end up in voting sessions so again everyone involved (including a company's\n"
+"employees) will have the right to vote. Tanglu is entirely community-driven, "
+"so we expect that there will be problems from time to time, but we think that "
+"these can all be solved. We take every community-member and not-member "
+"serious and try to find a solution which works for most people."
+msgstr ""
+"誰知道呢？本計劃下決定的過程會\n"
+"以投票環節終結使所有參與的人（包括一個公司的\n"
+"員工）會有投票的權利。Tanglu是完全由社區主動，所以我們預計那裏會某些時候有問題，但我們認爲這些都可以被解決。我們重視每位社區會員和非會員和嘗試尋找一個"
+"適合大多數人的方案。"
+
+#: root/src/faq/index.tt2:42
+msgid ""
+"Why don’t you contribute to Debian directly and create yet another "
+"distribution?"
+msgstr "爲甚麼你們不直接向Debian貢獻而創造另一個發行版本?"
+
+#: root/src/header.tt2:134
+msgid "Wiki"
+msgstr "維基"
+
+#: root/src/faq/index.tt2:22
+msgid "Will firmware be available on CDs?"
+msgstr "韌體會在CD上供應嗎？	"
+
+#: root/src/faq/index.tt2:32
+msgid "Will you have a default desktop environment?"
+msgstr "你們會有一個預設的桌面環境嗎？"
+
+#: root/src/contribute/index.tt2:28
+msgid "With donations."
+msgstr "用捐獻。"
+
+#: root/src/contribute/index.tt2:20
+msgid "With servers."
+msgstr "用伺服器。"
+
+#: root/src/contribute/index.tt2:6
+msgid "With time."
+msgstr "用時間。"
+
+#: root/src/faq/index.tt2:50
+msgid ""
+"Yes and no, yes because we need money to rent our servers and stuff, and no "
+"by there is no company dictating the flow of the project. We believe in "
+"meritocracy, if some company decides to put lots of developers to work with "
+"us it's natural that they will be able to control what they are helping, the "
+"same way a developer that maintains a few packages will have the right to "
+"decide what is best for those."
+msgstr ""
+"可以說是也可以說否，是是因爲我們需要金錢以租借我們的伺服器和東西，否是因爲那裏是沒有公司壟斷本計劃的流向。我們相信任人唯賢，如果某公司決定放進大量的開發者去"
+"與我們工作，自然地他們會能控制他們幫忙的東西，跟一個維持幾個套件的開發者會有權利決定甚麼是對那些套件最好的一樣原理。"
+
+#: root/src/faq/index.tt2:23
+msgid ""
+"Yes, it's very frustrating for the average user to try\n"
+"on their own to install firmware, especially when it's preventing\n"
+"them from getting online. We will include firmware even if\n"
+"it isn't open source. But except for the firmware, there will be no "
+"proprietary modules in the distribution. We will also only include firmware "
+"which is part of upstream Linux."
+msgstr ""
+"是，對一般用家來說嘗試\n"
+"自己安裝韌體是非常洩氣，尤其是它在阻止\n"
+"它們上網。我們會包括甚至不是開源碼\n"
+"的韌體。但除了韌體， 發行版本裏會沒有自身組件。我們也只會包括在上游Linux裏的韌體。"
+
+#. ([ '<a href="http://lists.tanglu.org/mailman/listinfo">', '</a>' ])
+#: root/src/index.tt2:12
+msgid ""
+"You can also subscribe to one of our %1mailinglists%2, bigger announcements "
+"will be posted to the low-volume tanglu-announce mailinglist."
+msgstr "您也可以訂閱我們其中一個%1郵件列表%2，大的公告會被公告到低量的tanglu-announce郵件列表。"
+
+#: root/src/contribute/index.tt2:3
+msgid "You can contribute on the following ways:"
+msgstr "您可以使用以下方法貢獻："
+
+#. ([ '<a href="http://wiki.debian.org/DEX">', '</a>' ])
+#: root/src/faq/index.tt2:44
+msgid ""
+"You might ask why we have to create a new distribution for that, instead of "
+"creating improvements inside Debian? Creating a new distribution allows us to "
+"do stuff we can never do in Debian, for example including more firmware by "
+"default and having a time-based release cycle. These are already things which "
+"are a no-go for Debian, and that’s fine. We don’t want Debian to support "
+"these cases, as it is already a great distribution. We want to offer a distro "
+"as close to Debian as possible, but with a few modifications for use-cases "
+"which are not covered by Debian itself, and by doing that add value to the "
+"Debian ecosystem. Of course we will participate in the %1DEX%2 project and "
+"work closely with Debian."
+msgstr ""
+"您可能問爲甚麼我們要爲那個原因創造一個新的發行版本，而不在Debian裏創造改進？創造一個新的發行版本容許我們作一些在Debian裏沒可能做的事情， "
+"例如預設包括更多的韌體和有一個建基於時間的發行循環。這些已經是一些Debian不會做的事情，而且還好。我們不要Debian支援這些情況，因爲它已經是一個偉大"
+"的發行版本。我們想提供一個儘量近乎於Debian， 但有一些爲不能由Debian覆蓋的用例的改動的發行版本，而同時間爲Debian的生態系統增值。當然我們會"
+"參加%1DEX%2計劃和與Debian緊密合作。"
+"	"
+
+
