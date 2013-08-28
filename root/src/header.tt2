@@ -123,6 +123,8 @@
                                         <li><a href="[% c.uri_for('/set_lang',{lang=>'ru', redir=>redir}) %]">[% l("Russian") %]
                                             [% IF c.languages.0 != 'ru' -%](русский)[% END -%]</a>
                                         </li>
+					<li><a href="[% c.uri_for('/set_lang',{lang=>'zh_HK', redir=>redir}) %]">[% l("Chinese (Hong Kong)") %]
+					    [% IF c.languages.0 != 'zh_HK' -%](中文(香港))[% END -%]</a>
                                         </ul>
                                     </li>
                                 </ul>
